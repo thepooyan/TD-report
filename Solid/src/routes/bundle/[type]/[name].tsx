@@ -1,7 +1,7 @@
 import { useParams } from "@solidjs/router"
-import { createEffect, Show } from "solid-js"
+import { Show } from "solid-js"
 import pages from "~/json/result.json"
-import bundleInfo from "~/json/converted.json"
+import bundleInfo from "~/json/bundles.json"
 import Pages from "~/components/Pages"
 import BundleLink from "~/components/BundleLink"
 

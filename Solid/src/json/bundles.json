@@ -1,44 +1,73 @@
-{
-    "/Js/global": [
+[
+  {
+    "bundleName": "/Js/global",
+    "bundleItems": [
       "/Scripts/jquery.validate.min.js",
       "/Scripts/jquery.validate.unobtrusive.min.js",
       "/Scripts/global.js"
-    ],
-    "/Js/Jquery": [
+    ]
+  },
+  {
+    "bundleName": "/Js/Jquery",
+    "bundleItems": [
       "/Scripts/js/jquery-1.11.3.min.js"
-    ],
-    "/Js/Jqueryval": [
+    ]
+  },
+  {
+    "bundleName": "/Js/Jqueryval",
+    "bundleItems": [
       "/Scripts/jquery.validate*"
-    ],
-    "/Content/Common": [
+    ]
+  },
+  {
+    "bundleName": "/Content/Common",
+    "bundleItems": [
       "/Content/pages/common.min.css",
       "/Content/MediaCss/commonMedia.min.css",
       "/Content/Font/fontawesome-all.min.css"
-    ],
-    "/Content/Common2": [
+    ]
+  },
+  {
+    "bundleName": "/Content/Common2",
+    "bundleItems": [
       "/Content/bootstrap-reboot.css",
       "/Content/bootstrap-grid.css",
       "/Content/rtl/bootstrap.css"
-    ],
-    "/Content/Swiper": [
+    ]
+  },
+  {
+    "bundleName": "/Content/Swiper",
+    "bundleItems": [
       "/Content/swiper.css"
-    ],
-    "/Js/FooterPage": [
+    ]
+  },
+  {
+    "bundleName": "/Js/FooterPage",
+    "bundleItems": [
       "/Scripts/js/modules/validation.js",
       "/Scripts/utility.js"
-    ],
-    "/Content/TVStyles": [
+    ]
+  },
+  {
+    "bundleName": "/Content/TVStyles",
+    "bundleItems": [
       "/Content/TVStyle/tvStyle.min.css"
-    ],
-    "/Content/Index": [
+    ]
+  },
+  {
+    "bundleName": "/Content/Index",
+    "bundleItems": [
       "/Content/OwlCarousel/assets/owl.carousel.min.css",
       "/Content/OwlCarousel/assets/owl.theme.default.min.css",
       "/Content/pages/indexStyle.min.css",
       "/Content/MediaCss/indexMedia.min.css",
       "/Content/MediaCss/media.min.scss",
       "/Content/swiper.min.css"
-    ],
-    "/Js/Home": [
+    ]
+  },
+  {
+    "bundleName": "/Js/Home",
+    "bundleItems": [
       "/Scripts/js/jquery-1.11.3.min.js",
       "/Scripts/js/modules/queryLib.js",
       "/Scripts/js/modules/searchBar.js",
@@ -50,73 +79,124 @@
       "/Scripts/OwlCarousel/owl.carousel.min.js",
       "/Scripts/js/swiper-bundle.min.js",
       "/Scripts/global.js"
-    ],
-    "/Content/PythonCourseStyle": [
+    ]
+  },
+  {
+    "bundleName": "/Content/PythonCourseStyle",
+    "bundleItems": [
       "/Content/pages/pythoCourseStyle.min.css",
       "/Content/swiper.min.css"
-    ],
-    "/Content/newCourseDetailsStyle": [
+    ]
+  },
+  {
+    "bundleName": "/Content/newCourseDetailsStyle",
+    "bundleItems": [
       "/Content/pages/newCourseDetailsStyle.min.css"
-    ],
-    "/Content/LogicCourse2": [
+    ]
+  },
+  {
+    "bundleName": "/Content/LogicCourse2",
+    "bundleItems": [
       "/Content/pages/pythoCourseStyle.min.css",
       "/Content/swiper.min.css"
-    ],
-    "/Content/Article": [
+    ]
+  },
+  {
+    "bundleName": "/Content/Article",
+    "bundleItems": [
       "/Content/pages/article.min.css"
-    ],
-    "/Content/ArticleCatStyle": [
+    ]
+  },
+  {
+    "bundleName": "/Content/ArticleCatStyle",
+    "bundleItems": [
       "/Content/pages/articleCatStyle.min.css"
-    ],
-    "/Content/LearningVideoStyle": [
+    ]
+  },
+  {
+    "bundleName": "/Content/LearningVideoStyle",
+    "bundleItems": [
       "/Content/pages/learningVideoStyle.min.css",
       "/Content/jRating.jquery.css"
-    ],
-    "/Content/ArticleDetailsStyle": [
+    ]
+  },
+  {
+    "bundleName": "/Content/ArticleDetailsStyle",
+    "bundleItems": [
       "/Content/pages/articleDetails.min.css",
       "/Content/pages/InnerStyle.min.css",
       "/Content/ckeditor/syntaxhighlighter/styles/shCore.css",
       "/Content/ckeditor/syntaxhighlighter/styles/shCoreDefault.css",
       "/Content/prism.css"
-    ],
-    "/Content/VideoDetailsStyle": [
+    ]
+  },
+  {
+    "bundleName": "/Content/VideoDetailsStyle",
+    "bundleItems": [
       "/Content/pages/videoDetailsStyle.min.css",
       "/Content/pages/InnerStyle.min.css"
-    ],
-    "/Content/ProjectDetailsPage": [
+    ]
+  },
+  {
+    "bundleName": "/Content/ProjectDetailsPage",
+    "bundleItems": [
       "/Content/pages/projectDetailsPage.min.css",
       "/Content/pages/InnerStyle.min.css",
       "/Content/prism.css"
-    ],
-    "/Content/WeblogDetailsPage": [
+    ]
+  },
+  {
+    "bundleName": "/Content/WeblogDetailsPage",
+    "bundleItems": [
       "/Content/pages/weblogDetailsStyle.min.css",
       "/Content/pages/InnerStyle.min.css"
-    ],
-    "/Content/WebDesignCourseStyle": [
+    ]
+  },
+  {
+    "bundleName": "/Content/WebDesignCourseStyle",
+    "bundleItems": [
       "/Content/pages/webDesignStyle.min.css",
       "/Content/swiper.min.css"
-    ],
-    "/Content/CourseStyle": [
+    ]
+  },
+  {
+    "bundleName": "/Content/CourseStyle",
+    "bundleItems": [
       "/Content/pages/CourseStyle.min.css",
       "/Content/MediaCss/CourseMedia.css",
       "/Content/MediaCss/media.css",
       "/Content/jRating.jquery.css",
       "/Content/swiper.min.css"
-    ],
-    "/Content/seoLandingStyle": [
+    ]
+  },
+  {
+    "bundleName": "/Content/seoLandingStyle",
+    "bundleItems": [
       "/Content/pages/seoLandingPage.min.css",
       "/Content/swiper.min.css"
-    ],
-    "/Content/consultationLanding": [
+    ]
+  },
+  {
+    "bundleName": "/Content/consultationLanding",
+    "bundleItems": [
       "/Content/pages/consultationLanding.min.css"
-    ],
-    "/Content/Calendar": [
+    ]
+  },
+  {
+    "bundleName": "/Content/Calendar",
+    "bundleItems": [
       "/Content/pages/calendar.min.css"
-    ],
-    "/Content/InnerContent": [
+    ]
+  },
+  {
+    "bundleName": "/Content/InnerContent",
+    "bundleItems": [
       "/Content/pages/InnerStyle.min.css"
-    ],
-    "/Content/Page": [
+    ]
+  },
+  {
+    "bundleName": "/Content/Page",
+    "bundleItems": [
       "/Content/OwlCarousel/assets/owl.carousel.min.css",
       "/Content/OwlCarousel/assets/owl.theme.default.min.css",
       "/Content/pages/PagesStyle.min.css",
@@ -124,38 +204,68 @@
       "/Content/MediaCss/media.css",
       "/Content/jRating.jquery.css",
       "/Content/prism.css"
-    ],
-    "/Content/ContactUs": [
+    ]
+  },
+  {
+    "bundleName": "/Content/ContactUs",
+    "bundleItems": [
       "/Content/pages/contactUs.min.css"
-    ],
-    "/Content/LoginRegister": [
+    ]
+  },
+  {
+    "bundleName": "/Content/LoginRegister",
+    "bundleItems": [
       "/Content/pages/loginRegister.min.css"
-    ],
-    "/Content/TVPageStyle": [
+    ]
+  },
+  {
+    "bundleName": "/Content/TVPageStyle",
+    "bundleItems": [
       "/Content/OwlCarousel/assets/owl.carousel.min.css",
       "/Content/TVStyle/allVideoStyle1.min.css"
-    ],
-    "/Content/packageInSection": [
+    ]
+  },
+  {
+    "bundleName": "/Content/packageInSection",
+    "bundleItems": [
       "/Content/package/packageInSection2.css"
-    ],
-    "/Content/basket": [
+    ]
+  },
+  {
+    "bundleName": "/Content/basket",
+    "bundleItems": [
       "/Content/components/basket2.min.css"
-    ],
-    "/Content/myCourse": [
+    ]
+  },
+  {
+    "bundleName": "/Content/myCourse",
+    "bundleItems": [
       "/Content/MyCours/style.min.css"
-    ],
-    "/Content/ProjectsPageStyle": [
+    ]
+  },
+  {
+    "bundleName": "/Content/ProjectsPageStyle",
+    "bundleItems": [
       "/Content/pages/ProjectsPageStyle.min.css"
-    ],
-    "/Content/Weblog": [
+    ]
+  },
+  {
+    "bundleName": "/Content/Weblog",
+    "bundleItems": [
       "/Content/OwlCarousel/assets/owl.carousel.min.css",
       "/Content/OwlCarousel/assets/owl.theme.default.min.css",
       "/Content/pages/news.min.css"
-    ],
-    "/Js/Course": [
+    ]
+  },
+  {
+    "bundleName": "/Js/Course",
+    "bundleItems": [
       "/Scripts/js/js.js"
-    ],
-    "/Js/BaseScripts": [
+    ]
+  },
+  {
+    "bundleName": "/Js/BaseScripts",
+    "bundleItems": [
       "/Scripts/js/jquery-1.11.3.min.js",
       "/Scripts/js/modules/queryLib.min.js",
       "/Scripts/js/modules/TimeInputCalc.min.js",
@@ -163,11 +273,17 @@
       "/Scripts/js/modules/searchBar.min.js",
       "/Scripts/js/modules/clicker.js",
       "/Scripts/js/modules/respondToVisibility.min.js"
-    ],
-    "/Js/Basket": [
+    ]
+  },
+  {
+    "bundleName": "/Js/Basket",
+    "bundleItems": [
       "/Scripts/js/basket.js"
-    ],
-    "/Js/Page": [
+    ]
+  },
+  {
+    "bundleName": "/Js/Page",
+    "bundleItems": [
       "/Scripts/jRating.jquery.min.js",
       "/Scripts/js/modules/queryLib.min.js",
       "/Scripts/js/modules/TimeInputCalc.min.js",
@@ -193,43 +309,70 @@
       "/Scripts/MyCourse/app.js",
       "/Scripts/sweetAlert.js",
       "/Scripts/js/prism.js"
-    ],
-    "/Js/ChangePass": [
+    ]
+  },
+  {
+    "bundleName": "/Js/ChangePass",
+    "bundleItems": [
       "/Scripts/jquery.validate.min.js",
       "/Scripts/jquery.validate.unobtrusive.min.js",
       "/Scripts/jquery.unobtrusive-ajax.min.js"
-    ],
-    "/Js/Register": [
+    ]
+  },
+  {
+    "bundleName": "/Js/Register",
+    "bundleItems": [
       "/Scripts/jquery.validate.min.js",
       "/Scripts/jquery.validate.unobtrusive.min.js",
       "/Scripts/jquery.unobtrusive-ajax.min.js",
       "/Scripts/Register/registerScript.js"
-    ],
-    "/Js/Login": [
+    ]
+  },
+  {
+    "bundleName": "/Js/Login",
+    "bundleItems": [
       "/Scripts/Login/loginScript.js"
-    ],
-    "/Js/Swiper": [
+    ]
+  },
+  {
+    "bundleName": "/Js/Swiper",
+    "bundleItems": [
       "/Scripts/js/swiper-bundle.min.js"
-    ],
-    "/Content/DatePickerCss": [
+    ]
+  },
+  {
+    "bundleName": "/Content/DatePickerCss",
+    "bundleItems": [
       "/ContentAdmin/bootstrap.css",
       "/Content/MdBPDateTime/jquery.Bootstrap-PersianDateTimePicker.css"
-    ],
-    "/Js/DatePopper": [
+    ]
+  },
+  {
+    "bundleName": "/Js/DatePopper",
+    "bundleItems": [
       "/Scripts/MdBPDateTime/utils.js",
       "/Scripts/MdBPDateTime/tether.js",
       "/Scripts/umd/popper.min.js",
       "/Scripts/MdBPDateTime/jalaali.js",
       "/Scripts/MdBPDateTime/jquery.Bootstrap-PersianDateTimePicker.js"
-    ],
-    "/Content/Syntaxhighlighter": [
+    ]
+  },
+  {
+    "bundleName": "/Content/Syntaxhighlighter",
+    "bundleItems": [
       "/Content/ckeditor/syntaxhighlighter/styles/shCore.css",
       "/Content/ckeditor/syntaxhighlighter/styles/shCoreDefault.css"
-    ],
-    "/Js/SyntaxhighlighterArticle": [
+    ]
+  },
+  {
+    "bundleName": "/Js/SyntaxhighlighterArticle",
+    "bundleItems": [
       "/Content/ckeditor/syntaxhighlighter/scripts/Article.js"
-    ],
-    "/Js/Syntaxhighlighter": [
+    ]
+  },
+  {
+    "bundleName": "/Js/Syntaxhighlighter",
+    "bundleItems": [
       "/Content/ckeditor/syntaxhighlighter/scripts/shCore.js",
       "/Content/ckeditor/syntaxhighlighter/scripts/shBrushJScript.js",
       "/Content/ckeditor/syntaxhighlighter/scripts/shLegacy.js",
@@ -258,14 +401,20 @@
       "/Content/ckeditor/syntaxhighlighter/scripts/shBrushSql.js",
       "/Content/ckeditor/syntaxhighlighter/scripts/shBrushXml.js",
       "/Content/ckeditor/syntaxhighlighter/scripts/shBrushVb.js"
-    ],
-    "/Content/NewsPage": [
+    ]
+  },
+  {
+    "bundleName": "/Content/NewsPage",
+    "bundleItems": [
       "/Content/oldFiles/style.css",
       "/Content/pages/NewsStyle.min.css",
       "/Content/MediaCss/NewsMedia.css",
       "/Content/Font/fontawesome-all.css"
-    ],
-    "/Js/NewsPage": [
+    ]
+  },
+  {
+    "bundleName": "/Js/NewsPage",
+    "bundleItems": [
       "/Scripts/js/bootstrap.min.js",
       "/Scripts/js/jquery-1.11.3.min.js",
       "/Scripts/jRating.jquery.js",
@@ -274,40 +423,64 @@
       "/Scripts/utility.js",
       "/Scripts/js/cssRequest.js",
       "/Scripts/global.js"
-    ],
-    "/Js/Admin": [
+    ]
+  },
+  {
+    "bundleName": "/Js/Admin",
+    "bundleItems": [
       "/Scripts/js/modules/queryLib.js",
       "/Scripts/js/modules/modal.js",
       "/Scripts/select2.min.js"
-    ],
-    "/Js/modernizr": [
+    ]
+  },
+  {
+    "bundleName": "/Js/modernizr",
+    "bundleItems": [
       "/Scripts/modernizr-*"
-    ],
-    "/Content/editor": [
+    ]
+  },
+  {
+    "bundleName": "/Content/editor",
+    "bundleItems": [
       "/Content/PEditor.css"
-    ],
-    "/Js/editor": [
+    ]
+  },
+  {
+    "bundleName": "/Js/editor",
+    "bundleItems": [
       "/Scripts/modernizr-*"
-    ],
-    "/Content/fileManager": [
+    ]
+  },
+  {
+    "bundleName": "/Content/fileManager",
+    "bundleItems": [
       "/Content/bootstrap.css",
       "/Content/Font/fontawesome-all.css",
       "/Content/PFileManager.css",
       "/Content/cropper.css"
-    ],
-    "/Js/fileManager": [
+    ]
+  },
+  {
+    "bundleName": "/Js/fileManager",
+    "bundleItems": [
       "/Scripts/js/jquery-1.11.3.min.js",
       "/Scripts/js/popper.min.js",
       "/Scripts/js/bootstrap.min.js",
       "/Scripts/js/PFileManager.js",
       "/Scripts/js/image-compressor.min.js",
       "/Scripts/js/cropper.min.js"
-    ],
-    "/Content/Panel": [
+    ]
+  },
+  {
+    "bundleName": "/Content/Panel",
+    "bundleItems": [
       "/Content/Font/fontawesome-all.min.css",
       "/Content/pages/profileStyle.min.css"
-    ],
-    "/Js/Panel": [
+    ]
+  },
+  {
+    "bundleName": "/Js/Panel",
+    "bundleItems": [
       "/Scripts/js/modules/respondToVisibility.min.js",
       "/Scripts/js/jquery-1.11.3.min.js",
       "/Scripts/js/modules/queryLib.js",
@@ -320,11 +493,17 @@
       "/Scripts/js/jquery.unobtrusive-ajax.min.js",
       "/Scripts/js/guideDashboard.js",
       "/Scripts/global.js"
-    ],
-    "/Content/Search": [
+    ]
+  },
+  {
+    "bundleName": "/Content/Search",
+    "bundleItems": [
       "/Content/pages/search.min.css"
-    ],
-    "/Js/Search": [
+    ]
+  },
+  {
+    "bundleName": "/Js/Search",
+    "bundleItems": [
       "/Scripts/js/jquery-1.11.3.min.js",
       "/Scripts/js/modules/queryLib.js",
       "/Scripts/js/modules/modal.js",
@@ -333,41 +512,68 @@
       "/Scripts/js/modules/searchBar.js",
       "/scripts/js/specific/searchPage.js",
       "/Scripts/global.js"
-    ],
-    "/Content/Festival": [
+    ]
+  },
+  {
+    "bundleName": "/Content/Festival",
+    "bundleItems": [
       "/Content/pages/festival.min.css"
-    ],
-    "/style/Package": [
+    ]
+  },
+  {
+    "bundleName": "/style/Package",
+    "bundleItems": [
       "/Content/pages/PackageStyle.min.css",
       "/Content/OwlCarousel/assets/owl.carousel.min.css",
       "/Content/OwlCarousel/assets/owl.theme.default.min.css"
-    ],
-    "/Content/PackageHome": [
+    ]
+  },
+  {
+    "bundleName": "/Content/PackageHome",
+    "bundleItems": [
       "/Content/pages/PackageHome.min.css",
       "/Content/OwlCarousel/assets/owl.carousel.min.css",
       "/Content/OwlCarousel/assets/owl.theme.default.min.css"
-    ],
-    "/js/PackageHome": [
+    ]
+  },
+  {
+    "bundleName": "/js/PackageHome",
+    "bundleItems": [
       "/Scripts/js/PackageHome.js"
-    ],
-    "/js/PackageDetails": [
+    ]
+  },
+  {
+    "bundleName": "/js/PackageDetails",
+    "bundleItems": [
       "/Scripts/js/modules/TimeCapsule.js",
       "/Scripts/js/modules/LockedVideo.js",
       "/Scripts/js/packageDetails.js"
-    ],
-    "/js/TV": [
+    ]
+  },
+  {
+    "bundleName": "/js/TV",
+    "bundleItems": [
       "/Scripts/TVScript/TVScript.js"
-    ],
-    "/Content/KidsTeensCommon": [
+    ]
+  },
+  {
+    "bundleName": "/Content/KidsTeensCommon",
+    "bundleItems": [
       "/Content/OwlCarousel/assets/owl.carousel.min.css",
       "/Content/OwlCarousel/assets/owl.theme.default.min.css",
       "/Content/Font/fontawesome-all.min.css",
       "/Content/pages/kidsTeensCommon.min.css"
-    ],
-    "/Content/Kids": [
+    ]
+  },
+  {
+    "bundleName": "/Content/Kids",
+    "bundleItems": [
       "/Content/pages/kids.min.css"
-    ],
-    "/Js/Kids": [
+    ]
+  },
+  {
+    "bundleName": "/Js/Kids",
+    "bundleItems": [
       "/Scripts/js/jquery-1.11.3.min.js",
       "/Scripts/js/modules/queryLib.js",
       "/Scripts/OwlCarousel/owl.carousel.min.js",
@@ -376,12 +582,18 @@
       "/Scripts/js/modules/clicker.js",
       "/Scripts/js/kids.js",
       "/Scripts/global.js"
-    ],
-    "/Content/KidsDetails": [
+    ]
+  },
+  {
+    "bundleName": "/Content/KidsDetails",
+    "bundleItems": [
       "/Content/pages/KidsDetails.min.css",
       "/Content/pages/InnerStyle.min.css"
-    ],
-    "/Js/KidsDetails": [
+    ]
+  },
+  {
+    "bundleName": "/Js/KidsDetails",
+    "bundleItems": [
       "/Scripts/js/jquery-1.11.3.min.js",
       "/Scripts/js/modules/queryLib.js",
       "/Scripts/OwlCarousel/owl.carousel.min.js",
@@ -394,11 +606,17 @@
       "/Scripts/js/resMenu.js",
       "/Scripts/MyCourse/app.js",
       "/Scripts/global.js"
-    ],
-    "/Content/Teens": [
+    ]
+  },
+  {
+    "bundleName": "/Content/Teens",
+    "bundleItems": [
       "/Content/pages/teens.min.css"
-    ],
-    "/Js/Teens": [
+    ]
+  },
+  {
+    "bundleName": "/Js/Teens",
+    "bundleItems": [
       "/Scripts/js/jquery-1.11.3.min.js",
       "/Scripts/js/modules/queryLib.js",
       "/Scripts/OwlCarousel/owl.carousel.min.js",
@@ -409,4 +627,4 @@
       "/Scripts/global.js"
     ]
   }
-  
+]
