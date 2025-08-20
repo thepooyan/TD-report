@@ -1,7 +1,7 @@
 import { useParams } from "@solidjs/router"
-import { createSignal, onMount, Show } from "solid-js"
+import { Show } from "solid-js"
 import pages from "~/json/result.json"
-import bundleInfo from "~/json/bundles.json"
+import bundleInfo from "~/json/converted.json"
 import Pages from "~/components/Pages"
 
 const js = () => {
@@ -15,7 +15,7 @@ const js = () => {
         cleanName = fileName.replace(/\?v=.*$/, "")
     }
   
-  const bundleKey = (cleanName in bundleInfo ? cleanName as keyof typeof bundleInfo : undefined)
+    const bundleItem = bundleInfo.find(b => b.bundleName.toLowerCase() === cleanName.toLowerCase())
 
   return (
     <div class="space-y-5">
@@ -27,12 +27,12 @@ const js = () => {
             </div>}
             <span class="text-bold">{cleanName}</span>
             <div>
-            <Show when={bundleKey}>
-              {a => <>
-                <p class="text-sm text-zinc-800 my-2">
-                Inner Files:
-                </p>
-                {bundleInfo[a()].map(b => <p>{b}</p>)}
+            <Show when={bundleItem}>
+                {b => <>
+                    <p class="text-sm text-zinc-800 my-2">
+                    Inner Files:
+                    </p>
+                    {b().bundleItems.map(b => <p>{b}</p>)}
               </>}
             </Show>
             </div>
