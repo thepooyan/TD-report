@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Landing",
+    "url": "/"
+  },
+  {
+    "name": "Login",
+    "url": "/users/login.aspx"
+  },
+  {
+    "name": "Register",
+    "url": "/users/register.aspx"
+  },
+  {
+    "name": "User panel",
+    "url": "/userpanel/usercounter"
+  },
+  {
+    "name": "Basket",
+    "url": "/basket"
+  },
+  {
+    "name": "Consultation",
+    "url": "/landing/programming-consultation"
+  },
+  {
+    "name": "Packages",
+    "url": "/online-courses"
+  },
+  {
+    "name": "Package details",
+    "url": "/online-courses/php-packages/دوره-php/"
+  },
+  {
+    "name": "Courses",
+    "url": "/courses/courses.aspx"
+  },
+  {
+    "name": "Course details",
+    "url": "/coursedetails/123/آموزش-منطق-و-مقدمات-برنامه-نویسی.aspx"
+  },
+  {
+    "name": "Project",
+    "url": "/پروژه"
+  },
+  {
+    "name": "Project details",
+    "url": "/پروژه/پروژه-های-یادگیری-ماشین/احساسات-نظرات-کاربران-با-استفاده-از-یادگیری-ماشین"
+  },
+  {
+    "name": "Ebooks",
+    "url": "/ebookcategory"
+  },
+  {
+    "name": "Ebook details",
+    "url": "/ebookdetails/کتاب-%20فارسی%20-آموزش-%20reactjs"
+  },
+  {
+    "name": "Films",
+    "url": "/فیلم%20های%20آموزشی"
+  },
+  {
+    "name": "Film details",
+    "url": "/فیلم%20های%20آموزشی/فیلم-آموزش-react-js/آموزش-تصویری-reactjs"
+  },
+  {
+    "name": "Article",
+    "url": "/آموزش"
+  },
+  {
+    "name": "Article category",
+    "url": "/آموزش/آموزش-گام-به-گام-برنامه-نویسی-سی-شارپ-c"
+  },
+  {
+    "name": "Article details",
+    "url": "/articledetails/بکار-بردن-name-space-csharp"
+  },
+  {
+    "name": "Course Detials",
+    "url": "/coursedetails/123/آموزش-منطق-و-مقدمات-برنامه-نویسی.aspx"
+  },
+  {
+    "name": "TV",
+    "url": "/tv"
+  },
+  {
+    "name": "TV details",
+    "url": "/tv/videodetails/web-design-project6/"
+  },
+  {
+    "name": "TV Course project",
+    "url": "/tv/پروژه-دانشجویان-دوره-سی-شارپ/"
+  },
+  {
+    "name": "Weblog",
+    "url": "/وبلاگ"
+  },
+  {
+    "name": "Weblog Category",
+    "url": "/دسته%20بندی/دیجیتال-مارکتینگ"
+  },
+  {
+    "name": "Weblog Details",
+    "url": "/وبلاگ/how-to-write-a-resume"
+  },
+  {
+    "name": "Contact Us",
+    "url": "/footerinfo/contactus.aspx"
+  },
+  {
+    "name": "Cooperation",
+    "url": "/users/cooperationform.aspx"
+  },
+  {
+    "name": "Kids",
+    "url": "/آموزش-برنامه-نویسی-کودکان"
+  },
+  {
+    "name": "Kids/Teens details",
+    "url": "/%D8%AF%D9%88%D8%B1%D9%87-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%A7%D8%B3%DA%A9%D8%B1%DA%86"
+  }
+]
