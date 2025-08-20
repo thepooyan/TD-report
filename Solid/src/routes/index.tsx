@@ -1,4 +1,4 @@
-import { useNavigate } from "@solidjs/router"
+import BundleLink from "~/components/BundleLink"
 import Pages from "~/components/Pages"
 import result from "~/json/result.json"
 
@@ -9,12 +9,6 @@ export default function Home() {
 
   const alljs = result.map(r => r.js).flat()
   const allUniqeJs = new Set(alljs)
-  const nv = useNavigate()
-
-  const openBundle = (kind: "js" | "css", name: string) => {
-    localStorage.setItem(kind, name)
-    nv("/bundle/" + kind)
-  }
 
   return (
     <main class="">
@@ -27,14 +21,10 @@ export default function Home() {
             JS Files/Bundles:
           </h2>
           <div>
-            {Array.from(alluniqeCss).map(u => <div class="text-zinc-800 text-sm cursor-pointer hover:text-blue-700" onclick={() => openBundle("css", u)}>
-              {u}
-            </div>)}
+            {Array.from(alluniqeCss).map(u => <BundleLink u={u}/>)}
           </div>
           <div>
-            {Array.from(allUniqeJs).map(u => <div class="text-zinc-800 text-sm cursor-pointer hover:text-blue-700" onclick={() => openBundle("js", u)}>
-              {u}
-            </div>)}
+            {Array.from(allUniqeJs).map(u => <BundleLink u={u}/>)}
           </div>
         </div>
         <h2 class="mb-5">
