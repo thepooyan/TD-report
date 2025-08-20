@@ -1,4 +1,5 @@
 import result from "~/json/result.json"
+import BundleLink from "./BundleLink"
 const Pages = ({pages}:{pages: () => typeof result}) => {
   return (
     <div>
@@ -8,9 +9,9 @@ const Pages = ({pages}:{pages: () => typeof result}) => {
             <a class="text-blue-800" href={`https://tahlildadeh.com${r.url}`} target="_blank">{r.url}</a>
             <div>
                 css:
-                {r.css.map(c => <p class="text-zinc-600 text-sm">{c}</p>)}
+                {r.css.map(c => <BundleLink u={c}/>)}
                 js:
-                {r.js.map(c => <p class="text-zinc-600 text-sm">{c}</p>)}
+                {r.js.map(c => <BundleLink u={c}/>)}
             </div>
         </div>
         )}
