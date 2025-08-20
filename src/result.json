@@ -1,0 +1,323 @@
+[
+	{
+		"name": "Landing",
+		"url": "/",
+		"js": [
+			"/Js/Home?v=94z9q1MlMmBjo1s2OXSIp-eMC_lsXnxn0J9a_saPtB01"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/Content/Index?v=Vek1pGpePRnB81JvRvhKNYNGQPxYMjEmdlcBHMvKvxs1"
+		]
+	},
+	{
+		"name": "Packages",
+		"url": "/online-courses",
+		"js": [
+			"/Scripts/js/jquery-1.11.3.min.js",
+			"/Js/Page?v=z6dnzs9rYmmrwtwaZPW9etvD0O_TbrqbJ6outHbkHos1",
+			"/Js/PackageHome?v=8wvKL0Bmh95RNHjKKGKNuiabaaxSBob0PNafAN2TsRk1"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/Content/PackageHome?v=2uVU53Xglp-33pNykOAKZB7SLEgskFAhOMI8EdwHZwM1"
+		]
+	},
+	{
+		"name": "Package details",
+		"url": "/online-courses/php-packages/دوره-php/",
+		"js": [
+			"/Scripts/js/jquery-1.11.3.min.js",
+			"/Js/Page?v=z6dnzs9rYmmrwtwaZPW9etvD0O_TbrqbJ6outHbkHos1",
+			"/js/PackageDetails?v=gOx4PhtM4fomODhbpQkGsz1Rdgy5-yRI0fogY9APiDs1"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/style/Package?v=qPsVV0fk3-zpJ-9qZRPZEET3t2rcpoJshvKdWjs1rAI1"
+		]
+	},
+	{
+		"name": "Courses",
+		"url": "/courses/courses.aspx",
+		"js": [
+			"/Scripts/js/jquery-1.11.3.min.js",
+			"/Js/Page?v=z6dnzs9rYmmrwtwaZPW9etvD0O_TbrqbJ6outHbkHos1"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/Content/Calendar?v=V1cE23tqHrwOd20K4DEnxOxlBQGLYIHVqyPMjx5TutI1"
+		]
+	},
+	{
+		"name": "Course details",
+		"url": "/coursedetails/123/آموزش-منطق-و-مقدمات-برنامه-نویسی.aspx",
+		"js": [
+			"/Scripts/js/jquery-1.11.3.min.js",
+			"/Scripts/js/specific/courseDetails.min.js",
+			"/Js/Page?v=z6dnzs9rYmmrwtwaZPW9etvD0O_TbrqbJ6outHbkHos1"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/Content/CourseStyle?v=TPLc2eJ5b47LdF8IPwm10S2gTHMVhmcbsqisvP2Vi_Y1",
+			"/Content/newCourseDetailsStyle?v=prMEVyg9MjzX44lL2-TdtdyMtne60MdHcsqAeD0n9541",
+			"/Content/LogicCourse2?v=0dFHidHdMFhoDSzOoAMBv_LgzyjAgy-BxqVfcbTQvfY1"
+		]
+	},
+	{
+		"name": "User panel",
+		"url": "/userpanel/usercounter",
+		"js": [
+			"/Scripts/js/jquery-1.11.3.min.js",
+			"/Js/Jquery?v=Z_3sx_Om2qdGQNW4A5Csgy0WZLaXSa4Eg8ukUl26_Qw1",
+			"/Js/Login?v=c0a0wZnDhElcKTNymiNIqV9vSmv2iT5iPRtYykKs4ms1",
+			"/Js/Page?v=z6dnzs9rYmmrwtwaZPW9etvD0O_TbrqbJ6outHbkHos1"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/Content/LoginRegister?v=_l6ZJQJ9jNVlGg_LWG9eKuM_7EUAt6RhZwnCKK4QdBY1"
+		]
+	},
+	{
+		"name": "Consultation",
+		"url": "/landing/programming-consultation",
+		"js": [
+			"/Scripts/js/jquery-1.11.3.min.js",
+			"/Js/Page?v=z6dnzs9rYmmrwtwaZPW9etvD0O_TbrqbJ6outHbkHos1"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/Content/consultationLanding"
+		]
+	},
+	{
+		"name": "Project",
+		"url": "/پروژه",
+		"js": [
+			"/Scripts/js/jquery-1.11.3.min.js",
+			"/Js/Page?v=z6dnzs9rYmmrwtwaZPW9etvD0O_TbrqbJ6outHbkHos1"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/Content/ProjectsPageStyle?v=HMWiQJDnjGcZ6tcug6pBgIBtylaz-Qf3jjzGprrtVq41"
+		]
+	},
+	{
+		"name": "Project details",
+		"url": "/پروژه/پروژه-های-یادگیری-ماشین/احساسات-نظرات-کاربران-با-استفاده-از-یادگیری-ماشین",
+		"js": [
+			"/Scripts/js/jquery-1.11.3.min.js",
+			"/Js/Page?v=z6dnzs9rYmmrwtwaZPW9etvD0O_TbrqbJ6outHbkHos1"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/Content/ProjectDetailsPage?v=W9ZQTyR8_6v6YKNvLDMLW0_jfNZaFQt_ij0f-c7JdlM1"
+		]
+	},
+	{
+		"name": "Ebooks",
+		"url": "/ebookcategory",
+		"js": [
+			"/Scripts/js/jquery-1.11.3.min.js",
+			"/Scripts/js/specific/EbookCate.js",
+			"/Js/Page?v=z6dnzs9rYmmrwtwaZPW9etvD0O_TbrqbJ6outHbkHos1"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/Content/Page?v=y_0Q8VfPUal5M0M9l0nIscyn17nHdmromBwlDsXAGuE1"
+		]
+	},
+	{
+		"name": "Ebook details",
+		"url": "/ebookdetails/کتاب-%20فارسی%20-آموزش-%20reactjs",
+		"js": [
+			"/Scripts/js/jquery-1.11.3.min.js",
+			"/Js/Page?v=z6dnzs9rYmmrwtwaZPW9etvD0O_TbrqbJ6outHbkHos1"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/Content/Swiper?v=ioA9OYL_g1zyiEctb1pKOwa66-xmujROZf0BAZ0jOjQ1",
+			"/Content/Page?v=y_0Q8VfPUal5M0M9l0nIscyn17nHdmromBwlDsXAGuE1"
+		]
+	},
+	{
+		"name": "Films",
+		"url": "/فیلم%20های%20آموزشی",
+		"js": [
+			"/Scripts/js/jquery-1.11.3.min.js",
+			"/Js/Page?v=z6dnzs9rYmmrwtwaZPW9etvD0O_TbrqbJ6outHbkHos1"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/Content/LearningVideoStyle?v=9qy6zN3zGZMsH-MQqyq7eEXVxZMgCJBv3rmuHOnMH1g1",
+			"/Content/Swiper?v=ioA9OYL_g1zyiEctb1pKOwa66-xmujROZf0BAZ0jOjQ1"
+		]
+	},
+	{
+		"name": "Film details",
+		"url": "/فیلم%20های%20آموزشی/فیلم-آموزش-react-js/آموزش-تصویری-reactjs",
+		"js": [
+			"/Scripts/js/jquery-1.11.3.min.js",
+			"/Js/Page?v=z6dnzs9rYmmrwtwaZPW9etvD0O_TbrqbJ6outHbkHos1"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/Content/VideoDetailsStyle?v=NIQKQbJC-KYdetIYUNA3LpAhG6QZ-ygljfbAjDwHfAI1",
+			"/Content/Swiper?v=ioA9OYL_g1zyiEctb1pKOwa66-xmujROZf0BAZ0jOjQ1"
+		]
+	},
+	{
+		"name": "Article",
+		"url": "/آموزش",
+		"js": [
+			"/Scripts/js/jquery-1.11.3.min.js",
+			"/Js/Page?v=z6dnzs9rYmmrwtwaZPW9etvD0O_TbrqbJ6outHbkHos1"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/Content/Article?v=Cn8wToJk_GPxjWoLeQ8b5ug3VwBJXmj5BzEXutmzlyY1"
+		]
+	},
+	{
+		"name": "Article category",
+		"url": "/آموزش/آموزش-گام-به-گام-برنامه-نویسی-سی-شارپ-c",
+		"js": [
+			"/Scripts/js/jquery-1.11.3.min.js",
+			"/Js/Page?v=z6dnzs9rYmmrwtwaZPW9etvD0O_TbrqbJ6outHbkHos1"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/Content/ArticleCatStyle?v=QvZbnIJAC3Jpabhrla7-BKDWh1e9nlxxz2tQKKyhwF81"
+		]
+	},
+	{
+		"name": "Article details",
+		"url": "/articledetails/بکار-بردن-name-space-csharp",
+		"js": [
+			"/Scripts/js/jquery-1.11.3.min.js",
+			"/Js/Syntaxhighlighter?v=WUJ7aSMpjiYg1sC4kP8iZ32JIJ4Ixp-enhZJz3baR481",
+			"/Js/SyntaxhighlighterArticle?v=bpt9yt5PLMxfoNIrsMpw3hHfIMcW--y5126TPtEwV_01",
+			"/Js/Page?v=z6dnzs9rYmmrwtwaZPW9etvD0O_TbrqbJ6outHbkHos1"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/Content/ArticleDetailsStyle?v=vdgdx6JOn509acFDY56w9yh-Jle6pbRxqdx7DQOCvDo1"
+		]
+	},
+	{
+		"name": "Basket",
+		"url": "/basket",
+		"js": [
+			"/Scripts/js/jquery-1.11.3.min.js",
+			"/Js/Page?v=z6dnzs9rYmmrwtwaZPW9etvD0O_TbrqbJ6outHbkHos1",
+			"/Js/Basket?v=7f5F3GFd_-Zy8sqp8Z7L1tHFApQECSSF_zi6Nx9fYX01"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/Content/basket?v=iIEbW524-TnI6hCjWE5LbUsK_mX0sU6TYjih4bx_nhs1"
+		]
+	},
+	{
+		"name": "Basket",
+		"url": "/basket",
+		"js": [
+			"/Scripts/js/jquery-1.11.3.min.js",
+			"/Js/Page?v=z6dnzs9rYmmrwtwaZPW9etvD0O_TbrqbJ6outHbkHos1",
+			"/Js/Basket?v=7f5F3GFd_-Zy8sqp8Z7L1tHFApQECSSF_zi6Nx9fYX01"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/Content/basket?v=iIEbW524-TnI6hCjWE5LbUsK_mX0sU6TYjih4bx_nhs1"
+		]
+	},
+	{
+		"name": "Basket",
+		"url": "/basket",
+		"js": [
+			"/Scripts/js/jquery-1.11.3.min.js",
+			"/Js/Page?v=z6dnzs9rYmmrwtwaZPW9etvD0O_TbrqbJ6outHbkHos1",
+			"/Js/Basket?v=7f5F3GFd_-Zy8sqp8Z7L1tHFApQECSSF_zi6Nx9fYX01"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/Content/basket?v=iIEbW524-TnI6hCjWE5LbUsK_mX0sU6TYjih4bx_nhs1"
+		]
+	},
+	{
+		"name": "Basket",
+		"url": "/basket",
+		"js": [
+			"/Scripts/js/jquery-1.11.3.min.js",
+			"/Js/Page?v=z6dnzs9rYmmrwtwaZPW9etvD0O_TbrqbJ6outHbkHos1",
+			"/Js/Basket?v=7f5F3GFd_-Zy8sqp8Z7L1tHFApQECSSF_zi6Nx9fYX01"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/Content/basket?v=iIEbW524-TnI6hCjWE5LbUsK_mX0sU6TYjih4bx_nhs1"
+		]
+	},
+	{
+		"name": "Basket",
+		"url": "/basket",
+		"js": [
+			"/Scripts/js/jquery-1.11.3.min.js",
+			"/Js/Page?v=z6dnzs9rYmmrwtwaZPW9etvD0O_TbrqbJ6outHbkHos1",
+			"/Js/Basket?v=7f5F3GFd_-Zy8sqp8Z7L1tHFApQECSSF_zi6Nx9fYX01"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/Content/basket?v=iIEbW524-TnI6hCjWE5LbUsK_mX0sU6TYjih4bx_nhs1"
+		]
+	},
+	{
+		"name": "Basket",
+		"url": "/basket",
+		"js": [
+			"/Scripts/js/jquery-1.11.3.min.js",
+			"/Js/Page?v=z6dnzs9rYmmrwtwaZPW9etvD0O_TbrqbJ6outHbkHos1",
+			"/Js/Basket?v=7f5F3GFd_-Zy8sqp8Z7L1tHFApQECSSF_zi6Nx9fYX01"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/Content/basket?v=iIEbW524-TnI6hCjWE5LbUsK_mX0sU6TYjih4bx_nhs1"
+		]
+	},
+	{
+		"name": "Basket",
+		"url": "/basket",
+		"js": [
+			"/Scripts/js/jquery-1.11.3.min.js",
+			"/Js/Page?v=z6dnzs9rYmmrwtwaZPW9etvD0O_TbrqbJ6outHbkHos1",
+			"/Js/Basket?v=7f5F3GFd_-Zy8sqp8Z7L1tHFApQECSSF_zi6Nx9fYX01"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/Content/basket?v=iIEbW524-TnI6hCjWE5LbUsK_mX0sU6TYjih4bx_nhs1"
+		]
+	},
+	{
+		"name": "Basket",
+		"url": "/basket",
+		"js": [
+			"/Scripts/js/jquery-1.11.3.min.js",
+			"/Js/Page?v=z6dnzs9rYmmrwtwaZPW9etvD0O_TbrqbJ6outHbkHos1",
+			"/Js/Basket?v=7f5F3GFd_-Zy8sqp8Z7L1tHFApQECSSF_zi6Nx9fYX01"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/Content/basket?v=iIEbW524-TnI6hCjWE5LbUsK_mX0sU6TYjih4bx_nhs1"
+		]
+	},
+	{
+		"name": "Basket",
+		"url": "/basket",
+		"js": [
+			"/Scripts/js/jquery-1.11.3.min.js",
+			"/Js/Page?v=z6dnzs9rYmmrwtwaZPW9etvD0O_TbrqbJ6outHbkHos1",
+			"/Js/Basket?v=7f5F3GFd_-Zy8sqp8Z7L1tHFApQECSSF_zi6Nx9fYX01"
+		],
+		"css": [
+			"/Content/Common?v=ZO8jfQf57W_YS7kVNNPt01ZgFPUxnmPx_ipOvZIDfdU1",
+			"/Content/basket?v=iIEbW524-TnI6hCjWE5LbUsK_mX0sU6TYjih4bx_nhs1"
+		]
+	}
+]
