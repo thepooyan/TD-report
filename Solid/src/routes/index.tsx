@@ -21,10 +21,10 @@ export default function Home() {
             JS Files/Bundles:
           </h2>
           <div>
-            {Array.from(alluniqeCss).map(u => <BundleLink u={u}/>)}
+            {Array.from(alluniqeCss).map(u => <BundleLink u={u} type="css"/>)}
           </div>
           <div>
-            {Array.from(allUniqeJs).map(u => <BundleLink u={u}/>)}
+            {Array.from(allUniqeJs).map(u => <BundleLink u={u} type="js"/>)}
           </div>
         </div>
         <h2 class="mb-5">

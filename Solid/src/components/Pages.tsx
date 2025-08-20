@@ -9,9 +9,9 @@ const Pages = ({pages}:{pages: () => typeof result}) => {
             <a class="text-blue-800" href={`https://tahlildadeh.com${r.url}`} target="_blank">{r.url}</a>
             <div>
                 css:
-                {r.css.map(c => <BundleLink u={c}/>)}
+                {r.css.map(c => <BundleLink u={c} type="css"/>)}
                 js:
-                {r.js.map(c => <BundleLink u={c}/>)}
+                {r.js.map(c => <BundleLink u={c} type="js"/>)}
             </div>
         </div>
         )}

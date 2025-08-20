@@ -1,6 +1,6 @@
 import { useNavigate } from "@solidjs/router"
 
-const BundleLink = ({u}:{u: string}) => {
+const BundleLink = ({type, u}:{type:"css" | "js",u: string}) => {
 
   const nv = useNavigate()
   const openBundle = (kind: "js" | "css", name: string) => {
@@ -9,7 +9,7 @@ const BundleLink = ({u}:{u: string}) => {
   }
 
   return (
-     <div class="text-zinc-800 text-sm cursor-pointer hover:text-blue-700" onclick={() => openBundle("css", u)}>
+     <div class="text-zinc-800 text-sm cursor-pointer hover:text-blue-700" onclick={() => openBundle(type, u)}>
         {u}
     </div>
   )

@@ -18,7 +18,6 @@ const js = () => {
       setIsBundle(true)
       name = name.replace(/\?v=.*$/, "")
     }
-    console.log(name)
     setName(`~${name}`)
   })
 
