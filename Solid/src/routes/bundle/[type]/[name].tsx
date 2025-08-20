@@ -41,7 +41,7 @@ const js = () => {
             </div>
         </div>
         <h2>Used in:</h2>
-        <Pages pages={() => pages.filter(r => r[params.type].includes(fileName()) )}/>
+        <Pages pages={() => pages.filter(r => r[params.type].includes(fileName()) )} highlight={() => fileName()}/>
     </div>
   )
 }
