@@ -3,6 +3,7 @@ import { createEffect, Show } from "solid-js"
 import pages from "~/json/result.json"
 import bundleInfo from "~/json/converted.json"
 import Pages from "~/components/Pages"
+import BundleLink from "~/components/BundleLink"
 
 const js = () => {
     const params = useParams<{type: "css" | "js", name: string}>()
@@ -31,10 +32,10 @@ const js = () => {
             <div>
             <Show when={bundleItem()}>
                 {b => <>
-                    <p class="text-sm text-zinc-800 my-2">
+                    <p class="  my-2">
                     Inner Files:
                     </p>
-                    {b().bundleItems.map(b => <p>{b}</p>)}
+                    {b().bundleItems.map(b => <BundleLink type={params.type} u={b}/>)}
               </>}
             </Show>
             </div>
