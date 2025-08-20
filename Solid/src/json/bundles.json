@@ -1,412 +1,412 @@
 {
-    "~/Js/global": [
-      "~/Scripts/jquery.validate.min.js",
-      "~/Scripts/jquery.validate.unobtrusive.min.js",
-      "~/Scripts/global.js"
-    ],
-    "~/Js/Jquery": [
-      "~/Scripts/js/jquery-1.11.3.min.js"
-    ],
-    "~/Js/Jqueryval": [
-      "~/Scripts/jquery.validate*"
-    ],
-    "~/Content/Common": [
-      "~/Content/pages/common.min.css",
-      "~/Content/MediaCss/commonMedia.min.css",
-      "~/Content/Font/fontawesome-all.min.css"
-    ],
-    "~/Content/Common2": [
-      "~/Content/bootstrap-reboot.css",
-      "~/Content/bootstrap-grid.css",
-      "~/Content/rtl/bootstrap.css"
-    ],
-    "~/Content/Swiper": [
-      "~/Content/swiper.css"
-    ],
-    "~/Js/FooterPage": [
-      "~/Scripts/js/modules/validation.js",
-      "~/Scripts/utility.js"
-    ],
-    "~/Content/TVStyles": [
-      "~/Content/TVStyle/tvStyle.min.css"
-    ],
-    "~/Content/Index": [
-      "~/Content/OwlCarousel/assets/owl.carousel.min.css",
-      "~/Content/OwlCarousel/assets/owl.theme.default.min.css",
-      "~/Content/pages/indexStyle.min.css",
-      "~/Content/MediaCss/indexMedia.min.css",
-      "~/Content/MediaCss/media.min.scss",
-      "~/Content/swiper.min.css"
-    ],
-    "~/Js/Home": [
-      "~/Scripts/js/jquery-1.11.3.min.js",
-      "~/Scripts/js/modules/queryLib.js",
-      "~/Scripts/js/modules/searchBar.js",
-      "~/Scripts/js/modules/TimeInputCalc.js",
-      "~/Scripts/js/modules/clicker.js",
-      "~/Scripts/js/modules/respondToVisibility.js",
-      "~/Scripts/js/modules/clicker.min.js",
-      "~/Scripts/js/js-index.js",
-      "~/Scripts/OwlCarousel/owl.carousel.min.js",
-      "~/Scripts/js/swiper-bundle.min.js",
-      "~/Scripts/global.js"
-    ],
-    "~/Content/PythonCourseStyle": [
-      "~/Content/pages/pythoCourseStyle.min.css",
-      "~/Content/swiper.min.css"
-    ],
-    "~/Content/newCourseDetailsStyle": [
-      "~/Content/pages/newCourseDetailsStyle.min.css"
-    ],
-    "~/Content/LogicCourse2": [
-      "~/Content/pages/pythoCourseStyle.min.css",
-      "~/Content/swiper.min.css"
-    ],
-    "~/Content/Article": [
-      "~/Content/pages/article.min.css"
-    ],
-    "~/Content/ArticleCatStyle": [
-      "~/Content/pages/articleCatStyle.min.css"
-    ],
-    "~/Content/LearningVideoStyle": [
-      "~/Content/pages/learningVideoStyle.min.css",
-      "~/Content/jRating.jquery.css"
-    ],
-    "~/Content/ArticleDetailsStyle": [
-      "~/Content/pages/articleDetails.min.css",
-      "~/Content/pages/InnerStyle.min.css",
-      "~/Content/ckeditor/syntaxhighlighter/styles/shCore.css",
-      "~/Content/ckeditor/syntaxhighlighter/styles/shCoreDefault.css",
-      "~/Content/prism.css"
-    ],
-    "~/Content/VideoDetailsStyle": [
-      "~/Content/pages/videoDetailsStyle.min.css",
-      "~/Content/pages/InnerStyle.min.css"
-    ],
-    "~/Content/ProjectDetailsPage": [
-      "~/Content/pages/projectDetailsPage.min.css",
-      "~/Content/pages/InnerStyle.min.css",
-      "~/Content/prism.css"
-    ],
-    "~/Content/WeblogDetailsPage": [
-      "~/Content/pages/weblogDetailsStyle.min.css",
-      "~/Content/pages/InnerStyle.min.css"
-    ],
-    "~/Content/WebDesignCourseStyle": [
-      "~/Content/pages/webDesignStyle.min.css",
-      "~/Content/swiper.min.css"
-    ],
-    "~/Content/CourseStyle": [
-      "~/Content/pages/CourseStyle.min.css",
-      "~/Content/MediaCss/CourseMedia.css",
-      "~/Content/MediaCss/media.css",
-      "~/Content/jRating.jquery.css",
-      "~/Content/swiper.min.css"
-    ],
-    "~/Content/seoLandingStyle": [
-      "~/Content/pages/seoLandingPage.min.css",
-      "~/Content/swiper.min.css"
-    ],
-    "~/Content/consultationLanding": [
-      "~/Content/pages/consultationLanding.min.css"
-    ],
-    "~/Content/Calendar": [
-      "~/Content/pages/calendar.min.css"
-    ],
-    "~/Content/InnerContent": [
-      "~/Content/pages/InnerStyle.min.css"
-    ],
-    "~/Content/Page": [
-      "~/Content/OwlCarousel/assets/owl.carousel.min.css",
-      "~/Content/OwlCarousel/assets/owl.theme.default.min.css",
-      "~/Content/pages/PagesStyle.min.css",
-      "~/Content/pages/InnerStyle.min.css",
-      "~/Content/MediaCss/media.css",
-      "~/Content/jRating.jquery.css",
-      "~/Content/prism.css"
-    ],
-    "~/Content/ContactUs": [
-      "~/Content/pages/contactUs.min.css"
-    ],
-    "~/Content/LoginRegister": [
-      "~/Content/pages/loginRegister.min.css"
-    ],
-    "~/Content/TVPageStyle": [
-      "~/Content/OwlCarousel/assets/owl.carousel.min.css",
-      "~/Content/TVStyle/allVideoStyle1.min.css"
-    ],
-    "~/Content/packageInSection": [
-      "~/Content/package/packageInSection2.css"
-    ],
-    "~/Content/basket": [
-      "~/Content/components/basket2.min.css"
-    ],
-    "~/Content/myCourse": [
-      "~/Content/MyCours/style.min.css"
-    ],
-    "~/Content/ProjectsPageStyle": [
-      "~/Content/pages/ProjectsPageStyle.min.css"
-    ],
-    "~/Content/Weblog": [
-      "~/Content/OwlCarousel/assets/owl.carousel.min.css",
-      "~/Content/OwlCarousel/assets/owl.theme.default.min.css",
-      "~/Content/pages/news.min.css"
-    ],
-    "~/Js/Course": [
-      "~/Scripts/js/js.js"
-    ],
-    "~/Js/BaseScripts": [
-      "~/Scripts/js/jquery-1.11.3.min.js",
-      "~/Scripts/js/modules/queryLib.min.js",
-      "~/Scripts/js/modules/TimeInputCalc.min.js",
-      "~/Scripts/js/modules/customSelect.min.js",
-      "~/Scripts/js/modules/searchBar.min.js",
-      "~/Scripts/js/modules/clicker.js",
-      "~/Scripts/js/modules/respondToVisibility.min.js"
-    ],
-    "~/Js/Basket": [
-      "~/Scripts/js/basket.js"
-    ],
-    "~/Js/Page": [
-      "~/Scripts/jRating.jquery.min.js",
-      "~/Scripts/js/modules/queryLib.min.js",
-      "~/Scripts/js/modules/TimeInputCalc.min.js",
-      "~/Scripts/js/modules/customSelect.min.js",
-      "~/Scripts/js/modules/searchBar.min.js",
-      "~/Scripts/js/modules/clicker.js",
-      "~/Scripts/js/modules/respondToVisibility.min.js",
-      "~/Scripts/js/swiper-bundle.min.js",
-      "~/Scripts/js/js.js",
-      "~/Scripts/js/modules/modal.min.js",
-      "~/Scripts/js/modules/validation.min.js",
-      "~/Scripts/utility.min.js",
-      "~/Scripts/js/newsDetalis.min.js",
-      "~/Scripts/js/login.min.js",
-      "~/Scripts/OwlCarousel/owl.carousel.min.js",
-      "~/Scripts/js/cooperation.min.js",
-      "~/Scripts/js/menuAside.min.js",
-      "~/Scripts/js/_newComment.min.js",
-      "~/Scripts/TVScript/TVInSectionScript.js",
-      "~/Scripts/PackageScript/packageInCourseScript.js",
-      "~/Scripts/js/resMenu.min.js",
-      "~/Scripts/global.js",
-      "~/Scripts/MyCourse/app.js",
-      "~/Scripts/sweetAlert.js",
-      "~/Scripts/js/prism.js"
-    ],
-    "~/Js/ChangePass": [
-      "~/Scripts/jquery.validate.min.js",
-      "~/Scripts/jquery.validate.unobtrusive.min.js",
-      "~/Scripts/jquery.unobtrusive-ajax.min.js"
-    ],
-    "~/Js/Register": [
-      "~/Scripts/jquery.validate.min.js",
-      "~/Scripts/jquery.validate.unobtrusive.min.js",
-      "~/Scripts/jquery.unobtrusive-ajax.min.js",
-      "~/Scripts/Register/registerScript.js"
-    ],
-    "~/Js/Login": [
-      "~/Scripts/Login/loginScript.js"
-    ],
-    "~/Js/Swiper": [
-      "~/Scripts/js/swiper-bundle.min.js"
-    ],
-    "~/Content/DatePickerCss": [
-      "~/ContentAdmin/bootstrap.css",
-      "~/Content/MdBPDateTime/jquery.Bootstrap-PersianDateTimePicker.css"
-    ],
-    "~/Js/DatePopper": [
-      "~/Scripts/MdBPDateTime/utils.js",
-      "~/Scripts/MdBPDateTime/tether.js",
-      "~/Scripts/umd/popper.min.js",
-      "~/Scripts/MdBPDateTime/jalaali.js",
-      "~/Scripts/MdBPDateTime/jquery.Bootstrap-PersianDateTimePicker.js"
-    ],
-    "~/Content/Syntaxhighlighter": [
-      "~/Content/ckeditor/syntaxhighlighter/styles/shCore.css",
-      "~/Content/ckeditor/syntaxhighlighter/styles/shCoreDefault.css"
-    ],
-    "~/Js/SyntaxhighlighterArticle": [
-      "~/Content/ckeditor/syntaxhighlighter/scripts/Article.js"
-    ],
-    "~/Js/Syntaxhighlighter": [
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shCore.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushJScript.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shLegacy.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shAutoloader.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushAppleScript.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushAS3.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushBash.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushColdFusion.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushCpp.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushCSharp.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushCss.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushDelphi.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushDiff.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushErlang.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushGroovy.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushJava.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushJavaFX.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushPerl.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushPhp.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushPlain.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushPowerShell.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushPython.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushRuby.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushSass.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushScala.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushSql.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushXml.js",
-      "~/Content/ckeditor/syntaxhighlighter/scripts/shBrushVb.js"
-    ],
-    "~/Content/NewsPage": [
-      "~/Content/oldFiles/style.css",
-      "~/Content/pages/NewsStyle.min.css",
-      "~/Content/MediaCss/NewsMedia.css",
-      "~/Content/Font/fontawesome-all.css"
-    ],
-    "~/Js/NewsPage": [
-      "~/Scripts/js/bootstrap.min.js",
-      "~/Scripts/js/jquery-1.11.3.min.js",
-      "~/Scripts/jRating.jquery.js",
-      "~/Scripts/js/js-news.js",
-      "~/Scripts/js/modules/validation.js",
-      "~/Scripts/utility.js",
-      "~/Scripts/js/cssRequest.js",
-      "~/Scripts/global.js"
-    ],
-    "~/Js/Admin": [
-      "~/Scripts/js/modules/queryLib.js",
-      "~/Scripts/js/modules/modal.js",
-      "~/Scripts/select2.min.js"
-    ],
-    "~/Js/modernizr": [
-      "~/Scripts/modernizr-*"
-    ],
-    "~/Content/editor": [
-      "~/Content/PEditor.css"
-    ],
-    "~/Js/editor": [
-      "~/Scripts/modernizr-*"
-    ],
-    "~/Content/fileManager": [
-      "~/Content/bootstrap.css",
-      "~/Content/Font/fontawesome-all.css",
-      "~/Content/PFileManager.css",
-      "~/Content/cropper.css"
-    ],
-    "~/Js/fileManager": [
-      "~/Scripts/js/jquery-1.11.3.min.js",
-      "~/Scripts/js/popper.min.js",
-      "~/Scripts/js/bootstrap.min.js",
-      "~/Scripts/js/PFileManager.js",
-      "~/Scripts/js/image-compressor.min.js",
-      "~/Scripts/js/cropper.min.js"
-    ],
-    "~/Content/Panel": [
-      "~/Content/Font/fontawesome-all.min.css",
-      "~/Content/pages/profileStyle.min.css"
-    ],
-    "~/Js/Panel": [
-      "~/Scripts/js/modules/respondToVisibility.min.js",
-      "~/Scripts/js/jquery-1.11.3.min.js",
-      "~/Scripts/js/modules/queryLib.js",
-      "~/Scripts/js/modules/customSelect.js",
-      "~/Scripts/js/modules/modal.js",
-      "~/Scripts/js/modules/smsValidation.js",
-      "~/Scripts/js/modules/clicker.js",
-      "~/Scripts/js/modules/validation.js",
-      "~/Scripts/js/profile-js.js",
-      "~/Scripts/js/jquery.unobtrusive-ajax.min.js",
-      "~/Scripts/js/guideDashboard.js",
-      "~/Scripts/global.js"
-    ],
-    "~/Content/Search": [
-      "~/Content/pages/search.min.css"
-    ],
-    "~/Js/Search": [
-      "~/Scripts/js/jquery-1.11.3.min.js",
-      "~/Scripts/js/modules/queryLib.js",
-      "~/Scripts/js/modules/modal.js",
-      "~/Scripts/js/modules/clicker.js",
-      "~/Scripts/js/modules/customSelect.js",
-      "~/Scripts/js/modules/searchBar.js",
-      "~/scripts/js/specific/searchPage.js",
-      "~/Scripts/global.js"
-    ],
-    "~/Content/Festival": [
-      "~/Content/pages/festival.min.css"
-    ],
-    "~/style/Package": [
-      "~/Content/pages/PackageStyle.min.css",
-      "~/Content/OwlCarousel/assets/owl.carousel.min.css",
-      "~/Content/OwlCarousel/assets/owl.theme.default.min.css"
-    ],
-    "~/Content/PackageHome": [
-      "~/Content/pages/PackageHome.min.css",
-      "~/Content/OwlCarousel/assets/owl.carousel.min.css",
-      "~/Content/OwlCarousel/assets/owl.theme.default.min.css"
-    ],
-    "~/js/PackageHome": [
-      "~/Scripts/js/PackageHome.js"
-    ],
-    "~/js/PackageDetails": [
-      "~/Scripts/js/modules/TimeCapsule.js",
-      "~/Scripts/js/modules/LockedVideo.js",
-      "~/Scripts/js/packageDetails.js"
-    ],
-    "~/js/TV": [
-      "~/Scripts/TVScript/TVScript.js"
-    ],
-    "~/Content/KidsTeensCommon": [
-      "~/Content/OwlCarousel/assets/owl.carousel.min.css",
-      "~/Content/OwlCarousel/assets/owl.theme.default.min.css",
-      "~/Content/Font/fontawesome-all.min.css",
-      "~/Content/pages/kidsTeensCommon.min.css"
-    ],
-    "~/Content/Kids": [
-      "~/Content/pages/kids.min.css"
-    ],
-    "~/Js/Kids": [
-      "~/Scripts/js/jquery-1.11.3.min.js",
-      "~/Scripts/js/modules/queryLib.js",
-      "~/Scripts/OwlCarousel/owl.carousel.min.js",
-      "~/Scripts/js/resMenu.js",
-      "~/Scripts/js/modules/respondToVisibility.js",
-      "~/Scripts/js/modules/clicker.js",
-      "~/Scripts/js/kids.js",
-      "~/Scripts/global.js"
-    ],
-    "~/Content/KidsDetails": [
-      "~/Content/pages/KidsDetails.min.css",
-      "~/Content/pages/InnerStyle.min.css"
-    ],
-    "~/Js/KidsDetails": [
-      "~/Scripts/js/jquery-1.11.3.min.js",
-      "~/Scripts/js/modules/queryLib.js",
-      "~/Scripts/OwlCarousel/owl.carousel.min.js",
-      "~/Scripts/js/modules/respondToVisibility.js",
-      "~/scripts/js/modules/modal.js",
-      "~/Scripts/js/kidsDetails.js",
-      "~/Scripts/js/modules/respondToVisibility.js",
-      "~/Scripts/js/modules/clicker.js",
-      "~/Scripts/utility.js",
-      "~/Scripts/js/resMenu.js",
-      "~/Scripts/MyCourse/app.js",
-      "~/Scripts/global.js"
-    ],
-    "~/Content/Teens": [
-      "~/Content/pages/teens.min.css"
-    ],
-    "~/Js/Teens": [
-      "~/Scripts/js/jquery-1.11.3.min.js",
-      "~/Scripts/js/modules/queryLib.js",
-      "~/Scripts/OwlCarousel/owl.carousel.min.js",
-      "~/Scripts/js/resMenu.js",
-      "~/Scripts/js/modules/respondToVisibility.js",
-      "~/Scripts/js/modules/clicker.js",
-      "~/Scripts/js/kids.js",
-      "~/Scripts/global.js"
+    "/Js/global": [
+      "/Scripts/jquery.validate.min.js",
+      "/Scripts/jquery.validate.unobtrusive.min.js",
+      "/Scripts/global.js"
+    ],
+    "/Js/Jquery": [
+      "/Scripts/js/jquery-1.11.3.min.js"
+    ],
+    "/Js/Jqueryval": [
+      "/Scripts/jquery.validate*"
+    ],
+    "/Content/Common": [
+      "/Content/pages/common.min.css",
+      "/Content/MediaCss/commonMedia.min.css",
+      "/Content/Font/fontawesome-all.min.css"
+    ],
+    "/Content/Common2": [
+      "/Content/bootstrap-reboot.css",
+      "/Content/bootstrap-grid.css",
+      "/Content/rtl/bootstrap.css"
+    ],
+    "/Content/Swiper": [
+      "/Content/swiper.css"
+    ],
+    "/Js/FooterPage": [
+      "/Scripts/js/modules/validation.js",
+      "/Scripts/utility.js"
+    ],
+    "/Content/TVStyles": [
+      "/Content/TVStyle/tvStyle.min.css"
+    ],
+    "/Content/Index": [
+      "/Content/OwlCarousel/assets/owl.carousel.min.css",
+      "/Content/OwlCarousel/assets/owl.theme.default.min.css",
+      "/Content/pages/indexStyle.min.css",
+      "/Content/MediaCss/indexMedia.min.css",
+      "/Content/MediaCss/media.min.scss",
+      "/Content/swiper.min.css"
+    ],
+    "/Js/Home": [
+      "/Scripts/js/jquery-1.11.3.min.js",
+      "/Scripts/js/modules/queryLib.js",
+      "/Scripts/js/modules/searchBar.js",
+      "/Scripts/js/modules/TimeInputCalc.js",
+      "/Scripts/js/modules/clicker.js",
+      "/Scripts/js/modules/respondToVisibility.js",
+      "/Scripts/js/modules/clicker.min.js",
+      "/Scripts/js/js-index.js",
+      "/Scripts/OwlCarousel/owl.carousel.min.js",
+      "/Scripts/js/swiper-bundle.min.js",
+      "/Scripts/global.js"
+    ],
+    "/Content/PythonCourseStyle": [
+      "/Content/pages/pythoCourseStyle.min.css",
+      "/Content/swiper.min.css"
+    ],
+    "/Content/newCourseDetailsStyle": [
+      "/Content/pages/newCourseDetailsStyle.min.css"
+    ],
+    "/Content/LogicCourse2": [
+      "/Content/pages/pythoCourseStyle.min.css",
+      "/Content/swiper.min.css"
+    ],
+    "/Content/Article": [
+      "/Content/pages/article.min.css"
+    ],
+    "/Content/ArticleCatStyle": [
+      "/Content/pages/articleCatStyle.min.css"
+    ],
+    "/Content/LearningVideoStyle": [
+      "/Content/pages/learningVideoStyle.min.css",
+      "/Content/jRating.jquery.css"
+    ],
+    "/Content/ArticleDetailsStyle": [
+      "/Content/pages/articleDetails.min.css",
+      "/Content/pages/InnerStyle.min.css",
+      "/Content/ckeditor/syntaxhighlighter/styles/shCore.css",
+      "/Content/ckeditor/syntaxhighlighter/styles/shCoreDefault.css",
+      "/Content/prism.css"
+    ],
+    "/Content/VideoDetailsStyle": [
+      "/Content/pages/videoDetailsStyle.min.css",
+      "/Content/pages/InnerStyle.min.css"
+    ],
+    "/Content/ProjectDetailsPage": [
+      "/Content/pages/projectDetailsPage.min.css",
+      "/Content/pages/InnerStyle.min.css",
+      "/Content/prism.css"
+    ],
+    "/Content/WeblogDetailsPage": [
+      "/Content/pages/weblogDetailsStyle.min.css",
+      "/Content/pages/InnerStyle.min.css"
+    ],
+    "/Content/WebDesignCourseStyle": [
+      "/Content/pages/webDesignStyle.min.css",
+      "/Content/swiper.min.css"
+    ],
+    "/Content/CourseStyle": [
+      "/Content/pages/CourseStyle.min.css",
+      "/Content/MediaCss/CourseMedia.css",
+      "/Content/MediaCss/media.css",
+      "/Content/jRating.jquery.css",
+      "/Content/swiper.min.css"
+    ],
+    "/Content/seoLandingStyle": [
+      "/Content/pages/seoLandingPage.min.css",
+      "/Content/swiper.min.css"
+    ],
+    "/Content/consultationLanding": [
+      "/Content/pages/consultationLanding.min.css"
+    ],
+    "/Content/Calendar": [
+      "/Content/pages/calendar.min.css"
+    ],
+    "/Content/InnerContent": [
+      "/Content/pages/InnerStyle.min.css"
+    ],
+    "/Content/Page": [
+      "/Content/OwlCarousel/assets/owl.carousel.min.css",
+      "/Content/OwlCarousel/assets/owl.theme.default.min.css",
+      "/Content/pages/PagesStyle.min.css",
+      "/Content/pages/InnerStyle.min.css",
+      "/Content/MediaCss/media.css",
+      "/Content/jRating.jquery.css",
+      "/Content/prism.css"
+    ],
+    "/Content/ContactUs": [
+      "/Content/pages/contactUs.min.css"
+    ],
+    "/Content/LoginRegister": [
+      "/Content/pages/loginRegister.min.css"
+    ],
+    "/Content/TVPageStyle": [
+      "/Content/OwlCarousel/assets/owl.carousel.min.css",
+      "/Content/TVStyle/allVideoStyle1.min.css"
+    ],
+    "/Content/packageInSection": [
+      "/Content/package/packageInSection2.css"
+    ],
+    "/Content/basket": [
+      "/Content/components/basket2.min.css"
+    ],
+    "/Content/myCourse": [
+      "/Content/MyCours/style.min.css"
+    ],
+    "/Content/ProjectsPageStyle": [
+      "/Content/pages/ProjectsPageStyle.min.css"
+    ],
+    "/Content/Weblog": [
+      "/Content/OwlCarousel/assets/owl.carousel.min.css",
+      "/Content/OwlCarousel/assets/owl.theme.default.min.css",
+      "/Content/pages/news.min.css"
+    ],
+    "/Js/Course": [
+      "/Scripts/js/js.js"
+    ],
+    "/Js/BaseScripts": [
+      "/Scripts/js/jquery-1.11.3.min.js",
+      "/Scripts/js/modules/queryLib.min.js",
+      "/Scripts/js/modules/TimeInputCalc.min.js",
+      "/Scripts/js/modules/customSelect.min.js",
+      "/Scripts/js/modules/searchBar.min.js",
+      "/Scripts/js/modules/clicker.js",
+      "/Scripts/js/modules/respondToVisibility.min.js"
+    ],
+    "/Js/Basket": [
+      "/Scripts/js/basket.js"
+    ],
+    "/Js/Page": [
+      "/Scripts/jRating.jquery.min.js",
+      "/Scripts/js/modules/queryLib.min.js",
+      "/Scripts/js/modules/TimeInputCalc.min.js",
+      "/Scripts/js/modules/customSelect.min.js",
+      "/Scripts/js/modules/searchBar.min.js",
+      "/Scripts/js/modules/clicker.js",
+      "/Scripts/js/modules/respondToVisibility.min.js",
+      "/Scripts/js/swiper-bundle.min.js",
+      "/Scripts/js/js.js",
+      "/Scripts/js/modules/modal.min.js",
+      "/Scripts/js/modules/validation.min.js",
+      "/Scripts/utility.min.js",
+      "/Scripts/js/newsDetalis.min.js",
+      "/Scripts/js/login.min.js",
+      "/Scripts/OwlCarousel/owl.carousel.min.js",
+      "/Scripts/js/cooperation.min.js",
+      "/Scripts/js/menuAside.min.js",
+      "/Scripts/js/_newComment.min.js",
+      "/Scripts/TVScript/TVInSectionScript.js",
+      "/Scripts/PackageScript/packageInCourseScript.js",
+      "/Scripts/js/resMenu.min.js",
+      "/Scripts/global.js",
+      "/Scripts/MyCourse/app.js",
+      "/Scripts/sweetAlert.js",
+      "/Scripts/js/prism.js"
+    ],
+    "/Js/ChangePass": [
+      "/Scripts/jquery.validate.min.js",
+      "/Scripts/jquery.validate.unobtrusive.min.js",
+      "/Scripts/jquery.unobtrusive-ajax.min.js"
+    ],
+    "/Js/Register": [
+      "/Scripts/jquery.validate.min.js",
+      "/Scripts/jquery.validate.unobtrusive.min.js",
+      "/Scripts/jquery.unobtrusive-ajax.min.js",
+      "/Scripts/Register/registerScript.js"
+    ],
+    "/Js/Login": [
+      "/Scripts/Login/loginScript.js"
+    ],
+    "/Js/Swiper": [
+      "/Scripts/js/swiper-bundle.min.js"
+    ],
+    "/Content/DatePickerCss": [
+      "/ContentAdmin/bootstrap.css",
+      "/Content/MdBPDateTime/jquery.Bootstrap-PersianDateTimePicker.css"
+    ],
+    "/Js/DatePopper": [
+      "/Scripts/MdBPDateTime/utils.js",
+      "/Scripts/MdBPDateTime/tether.js",
+      "/Scripts/umd/popper.min.js",
+      "/Scripts/MdBPDateTime/jalaali.js",
+      "/Scripts/MdBPDateTime/jquery.Bootstrap-PersianDateTimePicker.js"
+    ],
+    "/Content/Syntaxhighlighter": [
+      "/Content/ckeditor/syntaxhighlighter/styles/shCore.css",
+      "/Content/ckeditor/syntaxhighlighter/styles/shCoreDefault.css"
+    ],
+    "/Js/SyntaxhighlighterArticle": [
+      "/Content/ckeditor/syntaxhighlighter/scripts/Article.js"
+    ],
+    "/Js/Syntaxhighlighter": [
+      "/Content/ckeditor/syntaxhighlighter/scripts/shCore.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushJScript.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shLegacy.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shAutoloader.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushAppleScript.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushAS3.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushBash.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushColdFusion.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushCpp.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushCSharp.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushCss.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushDelphi.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushDiff.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushErlang.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushGroovy.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushJava.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushJavaFX.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushPerl.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushPhp.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushPlain.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushPowerShell.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushPython.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushRuby.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushSass.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushScala.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushSql.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushXml.js",
+      "/Content/ckeditor/syntaxhighlighter/scripts/shBrushVb.js"
+    ],
+    "/Content/NewsPage": [
+      "/Content/oldFiles/style.css",
+      "/Content/pages/NewsStyle.min.css",
+      "/Content/MediaCss/NewsMedia.css",
+      "/Content/Font/fontawesome-all.css"
+    ],
+    "/Js/NewsPage": [
+      "/Scripts/js/bootstrap.min.js",
+      "/Scripts/js/jquery-1.11.3.min.js",
+      "/Scripts/jRating.jquery.js",
+      "/Scripts/js/js-news.js",
+      "/Scripts/js/modules/validation.js",
+      "/Scripts/utility.js",
+      "/Scripts/js/cssRequest.js",
+      "/Scripts/global.js"
+    ],
+    "/Js/Admin": [
+      "/Scripts/js/modules/queryLib.js",
+      "/Scripts/js/modules/modal.js",
+      "/Scripts/select2.min.js"
+    ],
+    "/Js/modernizr": [
+      "/Scripts/modernizr-*"
+    ],
+    "/Content/editor": [
+      "/Content/PEditor.css"
+    ],
+    "/Js/editor": [
+      "/Scripts/modernizr-*"
+    ],
+    "/Content/fileManager": [
+      "/Content/bootstrap.css",
+      "/Content/Font/fontawesome-all.css",
+      "/Content/PFileManager.css",
+      "/Content/cropper.css"
+    ],
+    "/Js/fileManager": [
+      "/Scripts/js/jquery-1.11.3.min.js",
+      "/Scripts/js/popper.min.js",
+      "/Scripts/js/bootstrap.min.js",
+      "/Scripts/js/PFileManager.js",
+      "/Scripts/js/image-compressor.min.js",
+      "/Scripts/js/cropper.min.js"
+    ],
+    "/Content/Panel": [
+      "/Content/Font/fontawesome-all.min.css",
+      "/Content/pages/profileStyle.min.css"
+    ],
+    "/Js/Panel": [
+      "/Scripts/js/modules/respondToVisibility.min.js",
+      "/Scripts/js/jquery-1.11.3.min.js",
+      "/Scripts/js/modules/queryLib.js",
+      "/Scripts/js/modules/customSelect.js",
+      "/Scripts/js/modules/modal.js",
+      "/Scripts/js/modules/smsValidation.js",
+      "/Scripts/js/modules/clicker.js",
+      "/Scripts/js/modules/validation.js",
+      "/Scripts/js/profile-js.js",
+      "/Scripts/js/jquery.unobtrusive-ajax.min.js",
+      "/Scripts/js/guideDashboard.js",
+      "/Scripts/global.js"
+    ],
+    "/Content/Search": [
+      "/Content/pages/search.min.css"
+    ],
+    "/Js/Search": [
+      "/Scripts/js/jquery-1.11.3.min.js",
+      "/Scripts/js/modules/queryLib.js",
+      "/Scripts/js/modules/modal.js",
+      "/Scripts/js/modules/clicker.js",
+      "/Scripts/js/modules/customSelect.js",
+      "/Scripts/js/modules/searchBar.js",
+      "/scripts/js/specific/searchPage.js",
+      "/Scripts/global.js"
+    ],
+    "/Content/Festival": [
+      "/Content/pages/festival.min.css"
+    ],
+    "/style/Package": [
+      "/Content/pages/PackageStyle.min.css",
+      "/Content/OwlCarousel/assets/owl.carousel.min.css",
+      "/Content/OwlCarousel/assets/owl.theme.default.min.css"
+    ],
+    "/Content/PackageHome": [
+      "/Content/pages/PackageHome.min.css",
+      "/Content/OwlCarousel/assets/owl.carousel.min.css",
+      "/Content/OwlCarousel/assets/owl.theme.default.min.css"
+    ],
+    "/js/PackageHome": [
+      "/Scripts/js/PackageHome.js"
+    ],
+    "/js/PackageDetails": [
+      "/Scripts/js/modules/TimeCapsule.js",
+      "/Scripts/js/modules/LockedVideo.js",
+      "/Scripts/js/packageDetails.js"
+    ],
+    "/js/TV": [
+      "/Scripts/TVScript/TVScript.js"
+    ],
+    "/Content/KidsTeensCommon": [
+      "/Content/OwlCarousel/assets/owl.carousel.min.css",
+      "/Content/OwlCarousel/assets/owl.theme.default.min.css",
+      "/Content/Font/fontawesome-all.min.css",
+      "/Content/pages/kidsTeensCommon.min.css"
+    ],
+    "/Content/Kids": [
+      "/Content/pages/kids.min.css"
+    ],
+    "/Js/Kids": [
+      "/Scripts/js/jquery-1.11.3.min.js",
+      "/Scripts/js/modules/queryLib.js",
+      "/Scripts/OwlCarousel/owl.carousel.min.js",
+      "/Scripts/js/resMenu.js",
+      "/Scripts/js/modules/respondToVisibility.js",
+      "/Scripts/js/modules/clicker.js",
+      "/Scripts/js/kids.js",
+      "/Scripts/global.js"
+    ],
+    "/Content/KidsDetails": [
+      "/Content/pages/KidsDetails.min.css",
+      "/Content/pages/InnerStyle.min.css"
+    ],
+    "/Js/KidsDetails": [
+      "/Scripts/js/jquery-1.11.3.min.js",
+      "/Scripts/js/modules/queryLib.js",
+      "/Scripts/OwlCarousel/owl.carousel.min.js",
+      "/Scripts/js/modules/respondToVisibility.js",
+      "/scripts/js/modules/modal.js",
+      "/Scripts/js/kidsDetails.js",
+      "/Scripts/js/modules/respondToVisibility.js",
+      "/Scripts/js/modules/clicker.js",
+      "/Scripts/utility.js",
+      "/Scripts/js/resMenu.js",
+      "/Scripts/MyCourse/app.js",
+      "/Scripts/global.js"
+    ],
+    "/Content/Teens": [
+      "/Content/pages/teens.min.css"
+    ],
+    "/Js/Teens": [
+      "/Scripts/js/jquery-1.11.3.min.js",
+      "/Scripts/js/modules/queryLib.js",
+      "/Scripts/OwlCarousel/owl.carousel.min.js",
+      "/Scripts/js/resMenu.js",
+      "/Scripts/js/modules/respondToVisibility.js",
+      "/Scripts/js/modules/clicker.js",
+      "/Scripts/js/kids.js",
+      "/Scripts/global.js"
     ]
   }
   

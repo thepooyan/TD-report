@@ -3,13 +3,13 @@ import { useNavigate } from "@solidjs/router"
 const BundleLink = ({type, u}:{type:"css" | "js",u: string}) => {
 
   const nv = useNavigate()
-  const openBundle = (kind: "js" | "css", name: string) => {
-    localStorage.setItem(kind, name)
-    nv("/bundle/" + kind)
+  const openBundle = (name: string) => {
+    let uri = encodeURIComponent(name)
+    nv(`/bundle/${type}/${uri}`)
   }
 
   return (
-     <div class="text-zinc-800 text-sm cursor-pointer hover:text-blue-700" onclick={() => openBundle(type, u)}>
+     <div class="text-zinc-800 text-sm cursor-pointer hover:text-blue-700" onclick={() => openBundle(u)}>
         {u}
     </div>
   )
