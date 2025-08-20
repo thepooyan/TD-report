@@ -1,7 +1,6 @@
 import fs from "fs"
 import {JSDOM} from "jsdom"
-import pages from "./pages.json"
-import tahaPages from "./pagess.json"
+import pages from "./url.json"
 
 const EXCLUDED_SCRIPTS = [
     "https://www.googletagmanager.com/gtag/js?id=G-N901M1ZKXX",
@@ -17,27 +16,6 @@ const main = async () => {
         css: string[],
         js: string[]
     }
-    type tahaPage = {
-        name: string,
-        url: string,
-        children?: tahaPage,
-    }[]
-    type page = {name: string, url: string}[]
-    let toSearch:page = [];
-
-    function flattenPages(pages: tahaPage) {
-        pages.forEach(page => {
-            toSearch.push({ name: page.name, url: page.url })
-            if (page.children) {
-                flattenPages(page.children)
-            }
-        })
-    }
-    
-    flattenPages(tahaPages as tahaPage)
-
-    console.log(toSearch)
-    return
 
     let results:result[] = []
 
