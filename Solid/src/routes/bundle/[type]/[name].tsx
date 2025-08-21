@@ -1,10 +1,11 @@
 import { useParams } from "@solidjs/router"
-import { Show } from "solid-js"
+import { onMount, Show } from "solid-js"
 import pages from "~/json/result.json"
 import bundleInfo from "~/json/bundles.json"
 import Pages from "~/components/Pages"
 import BundleLink from "~/components/BundleLink"
 import sassGraph from "~/json/sass-graph.json"
+import { graph } from "~/graph/generateGraph"
 
 const js = () => {
     const params = useParams<{type: "css" | "js", name: string}>()
@@ -22,12 +23,14 @@ const js = () => {
       Object.entries(sassGraph).map(([key, value]) => [key.toLowerCase(), value])
     );
 
-    const bundleItem = () => bundleInfo.find(b => b.bundleName.toLowerCase() === cleanName().toLowerCase())
+    const bundleItem = () => {
+      // bundleInfo.find(b => b.bundleName.toLowerCase() === cleanName().toLowerCase())
+      return graph.parentsToChildren.get(cleanName().toLowerCase())
+    }
     const graphItem = () => {
       let name = cleanName().toLocaleLowerCase()
       if (name.endsWith(".min.css")) name = name.replace(".min.css", ".scss")
-      if (name in lowercaseSassGraph) return lowercaseSassGraph[name as keyof typeof sassGraph]
-      return null
+      return graph.parentsToChildren.get(name)
     }
 
   return (
@@ -45,7 +48,7 @@ const js = () => {
                     <p class="  my-2">
                     Bundle Files:
                     </p>
-                    {b().bundleItems.map(b => <BundleLink type={params.type} u={b}/>)}
+                    {b().map(b => <BundleLink type={params.type} u={b}/>)}
               </>}
             </Show>
             <Show when={graphItem()}>
