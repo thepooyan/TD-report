@@ -18,13 +18,13 @@ const js = () => {
     let isBundle = () => fileName().match(/\?v=.*$/);
 
 
-    const bundleItem = () => {
-      return graph.parentsToChildren.get(cleanName().toLowerCase())
+    const bundleChildren = () => {
+      return graph.bunlde.get(cleanName().toLowerCase(), "children")
     }
-    const graphItem = () => {
+    const sassChildren = () => {
       let name = cleanName().toLocaleLowerCase()
       if (name.endsWith(".min.css")) name = name.replace(".min.css", ".scss")
-      return graph.parentsToChildren.get(name)
+      return graph.sass.get(name, "children")
     }
 
   return (
@@ -37,7 +37,7 @@ const js = () => {
             </div>}
             <span class="text-bold">{cleanName()}</span>
             <div>
-            <Show when={bundleItem()}>
+            <Show when={bundleChildren()}>
                 {b => <>
                     <p class="  my-2">
                     Bundle Files:
@@ -45,7 +45,7 @@ const js = () => {
                     {b().map(b => <BundleLink type={params.type} u={b}/>)}
               </>}
             </Show>
-            <Show when={graphItem()}>
+            <Show when={sassChildren()}>
               {g => <>
                 <p class="  my-2">
                   SASS imports:
