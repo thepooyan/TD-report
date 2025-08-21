@@ -1,0 +1,1002 @@
+{
+  "TahlildadehMvc/Content/tryit.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/source/_Variables.scss": [],
+  "TahlildadehMvc/Content/swiper.scss": [],
+  "TahlildadehMvc/Content/TVStyle/allVideoStyle1.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/TVStyle/_videoSectionNew.scss",
+    "TahlildadehMvc/Content/components/_tvDetails.scss",
+    "TahlildadehMvc/Content/components/_newComment.scss"
+  ],
+  "TahlildadehMvc/Content/TVStyle/_videoSectionNew.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/TVStyle/_TvAsideFilter.scss",
+    "TahlildadehMvc/Content/TVStyle/_newPagination.scss"
+  ],
+  "TahlildadehMvc/Content/TVStyle/_TvAsideFilter.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/TVStyle/_newPagination.scss": [],
+  "TahlildadehMvc/Content/components/_tvDetails.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_newComment.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/TVStyle/tvStyle.scss": [
+    "TahlildadehMvc/Content/components/_videoSection.scss",
+    "TahlildadehMvc/Content/components/_videoModal.scss",
+    "TahlildadehMvc/Content/TVStyle/_videoDetails.scss"
+  ],
+  "TahlildadehMvc/Content/components/_videoSection.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_videoModal.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_tvDetails.scss",
+    "TahlildadehMvc/Content/components/_newBreadcrumb.scss"
+  ],
+  "TahlildadehMvc/Content/components/_newBreadcrumb.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/TVStyle/_videoDetails.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/homeSectionTitle.scss": [],
+  "TahlildadehMvc/Content/components/slect2.scss": [],
+  "TahlildadehMvc/Content/components/basket2.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_footer.scss",
+    "TahlildadehMvc/Content/components/_partAndBox.scss"
+  ],
+  "TahlildadehMvc/Content/components/_footer.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_partAndBox.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/MyCours/style.scss": [
+    "TahlildadehMvc/Content/MyCours/_studentPanel.scss",
+    "TahlildadehMvc/Content/MyCours/_chat.scss",
+    "TahlildadehMvc/Content/components/_loader.scss",
+    "TahlildadehMvc/Content/components/_modal.scss"
+  ],
+  "TahlildadehMvc/Content/MyCours/_studentPanel.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/MyCours/mainPartials/_practiceModal.scss"
+  ],
+  "TahlildadehMvc/Content/MyCours/mainPartials/_practiceModal.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/MyCours/_chat.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_loader.scss": [],
+  "TahlildadehMvc/Content/components/_modal.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/MediaCss/indexMedia.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/MediaCss/media.scss": [
+    "TahlildadehMvc/Content/MediaCss/mediaPartials/_footer.scss",
+    "TahlildadehMvc/Content/MediaCss/mediaPartials/_qcomment.scss",
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/MediaCss/mediaPartials/_footer.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/MediaCss/mediaPartials/_qcomment.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/MediaCss/NewsMedia.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/MediaCss/commonMedia.scss": [
+    "TahlildadehMvc/Content/MediaCss/mediaPartials/_header.scss"
+  ],
+  "TahlildadehMvc/Content/MediaCss/mediaPartials/_header.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/MediaCss/CourseMedia.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/MediaCss/mediaPartials/_qcomment.scss",
+    "TahlildadehMvc/Content/MediaCss/mediaPartials/_courseCalendar.scss"
+  ],
+  "TahlildadehMvc/Content/MediaCss/mediaPartials/_courseCalendar.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/source/Defer.scss": [],
+  "TahlildadehMvc/Content/oldFiles/style.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/pages/consultationLanding.scss": [
+    "TahlildadehMvc/Content/components/_footer.scss",
+    "TahlildadehMvc/Content/components/_seoLandingLink.scss",
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/shared/_innerContent.scss",
+    "TahlildadehMvc/Content/components/_commonQ.scss"
+  ],
+  "TahlildadehMvc/Content/components/_seoLandingLink.scss": [],
+  "TahlildadehMvc/Content/components/shared/_innerContent.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_recommend-blog.scss",
+    "TahlildadehMvc/Content/components/_tableOfContents.scss"
+  ],
+  "TahlildadehMvc/Content/components/_recommend-blog.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_tableOfContents.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_commonQ.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/pages/projectDetailsPage.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/boxesAds/_boxesAds.scss",
+    "TahlildadehMvc/Content/components/_loader.scss",
+    "TahlildadehMvc/Content/components/_footer.scss",
+    "TahlildadehMvc/Content/components/shared/_innerContent.scss",
+    "TahlildadehMvc/Content/components/_instaSide.scss",
+    "TahlildadehMvc/Content/components/_sideBar.scss",
+    "TahlildadehMvc/Content/components/_newComment.scss",
+    "TahlildadehMvc/Content/components/_intraction.scss",
+    "TahlildadehMvc/Content/components/_addRate.scss",
+    "TahlildadehMvc/Content/components/_articleAsideInfo.scss"
+  ],
+  "TahlildadehMvc/Content/components/boxesAds/_boxesAds.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/boxesAds/_oneBoxeAds.scss",
+    "TahlildadehMvc/Content/components/boxesAds/_twoBoxesAds.scss",
+    "TahlildadehMvc/Content/components/boxesAds/_threeBoxesAds.scss",
+    "TahlildadehMvc/Content/components/boxesAds/_fourBoxesAds.scss"
+  ],
+  "TahlildadehMvc/Content/components/boxesAds/_oneBoxeAds.scss": [],
+  "TahlildadehMvc/Content/components/boxesAds/_twoBoxesAds.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/boxesAds/_threeBoxesAds.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/boxesAds/_fourBoxesAds.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_instaSide.scss": [],
+  "TahlildadehMvc/Content/components/_sideBar.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_intraction.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_addRate.scss": [],
+  "TahlildadehMvc/Content/components/_articleAsideInfo.scss": [],
+  "TahlildadehMvc/Content/pages/PagesStyle.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_modal.scss",
+    "TahlildadehMvc/Content/components/_swiper.scss",
+    "TahlildadehMvc/Content/components/_breadcrumb.scss",
+    "TahlildadehMvc/Content/components/_instaSide.scss",
+    "TahlildadehMvc/Content/components/_sideBar.scss",
+    "TahlildadehMvc/Content/components/_footer.scss",
+    "TahlildadehMvc/Content/components/_bankCard.scss",
+    "TahlildadehMvc/Content/components/_copyable.scss",
+    "TahlildadehMvc/Content/components/_homeProjects.scss",
+    "TahlildadehMvc/Content/components/_articleCate.scss",
+    "TahlildadehMvc/Content/components/search/_filterBar.scss",
+    "TahlildadehMvc/Content/components/_customSelect.scss",
+    "TahlildadehMvc/Content/components/_loader.scss",
+    "TahlildadehMvc/Content/components/_category.scss",
+    "TahlildadehMvc/Content/components/boxesAds/_boxesAds.scss",
+    "TahlildadehMvc/Content/components/_cooperationSetting.scss",
+    "TahlildadehMvc/Content/components/_WeblogInnerMenu.scss",
+    "TahlildadehMvc/Content/components/_newComment.scss",
+    "TahlildadehMvc/Content/components/_inPageTab.scss",
+    "TahlildadehMvc/Content/pages/newsDetails.scss",
+    "TahlildadehMvc/Content/pages/news.scss",
+    "TahlildadehMvc/Content/pages/contactUs.scss",
+    "TahlildadehMvc/Content/components/_addRate.scss",
+    "TahlildadehMvc/Content/components/_articleAsideInfo.scss"
+  ],
+  "TahlildadehMvc/Content/components/_swiper.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_breadcrumb.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_bankCard.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_copyable.scss": [],
+  "TahlildadehMvc/Content/components/_homeProjects.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_articleCate.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/search/_filterBar.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_customSelect.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_category.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_cooperationSetting.scss": [
+    "TahlildadehMvc/Content/components/_commonQ.scss",
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_WeblogInnerMenu.scss": [],
+  "TahlildadehMvc/Content/components/_inPageTab.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/pages/newsDetails.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_asideNewsDetails.scss",
+    "TahlildadehMvc/Content/components/_intraction.scss",
+    "TahlildadehMvc/Content/components/_relatedPostsNews.scss",
+    "TahlildadehMvc/Content/components/_relatedLinks.scss",
+    "TahlildadehMvc/Content/components/_weblogHeader.scss",
+    "TahlildadehMvc/Content/components/_detailsArticle.scss"
+  ],
+  "TahlildadehMvc/Content/components/_asideNewsDetails.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_relatedPostsNews.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_relatedLinks.scss": [],
+  "TahlildadehMvc/Content/components/_weblogHeader.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_detailsArticle.scss": [],
+  "TahlildadehMvc/Content/pages/news.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_technologyNews.scss",
+    "TahlildadehMvc/Content/components/_latestNews.scss",
+    "TahlildadehMvc/Content/components/_dailyNews.scss",
+    "TahlildadehMvc/Content/components/_relatedLinks.scss",
+    "TahlildadehMvc/Content/components/_archiveNews.scss",
+    "TahlildadehMvc/Content/components/_pagination.scss",
+    "TahlildadehMvc/Content/components/_asideArticle.scss",
+    "TahlildadehMvc/Content/components/_weblogHeader.scss",
+    "TahlildadehMvc/Content/components/_detailsArticle.scss",
+    "TahlildadehMvc/Content/components/_gridItems.scss",
+    "TahlildadehMvc/Content/components/_blogCategory.scss",
+    "TahlildadehMvc/Content/components/_category.scss",
+    "TahlildadehMvc/Content/components/_footer.scss",
+    "TahlildadehMvc/Content/components/boxesAds/_boxesAds.scss"
+  ],
+  "TahlildadehMvc/Content/components/_technologyNews.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_latestNews.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_dailyNews.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_archiveNews.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_pagination.scss": [],
+  "TahlildadehMvc/Content/components/_asideArticle.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_gridItems.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_blogCategory.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/pages/contactUs.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_footer.scss",
+    "TahlildadehMvc/Content/components/_copyable.scss"
+  ],
+  "TahlildadehMvc/Content/pages/CourseStyle.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_instaSide.scss",
+    "TahlildadehMvc/Content/components/_newComment.scss",
+    "TahlildadehMvc/Content/components/_commonQ.scss",
+    "TahlildadehMvc/Content/components/_aboutTeacher.scss",
+    "TahlildadehMvc/Content/components/_sideBar.scss",
+    "TahlildadehMvc/Content/components/_modal.scss",
+    "TahlildadehMvc/Content/components/_footer.scss",
+    "TahlildadehMvc/Content/components/_loader.scss",
+    "TahlildadehMvc/Content/components/course/_paymentStatus.scss",
+    "TahlildadehMvc/Content/components/_courseInfo.scss",
+    "TahlildadehMvc/Content/components/_newCourseCertificate.scss",
+    "TahlildadehMvc/Content/components/_newTeacherCv.scss",
+    "TahlildadehMvc/Content/components/_addedToBasketModalStyle.scss",
+    "TahlildadehMvc/Content/components/_courseTableOfContentStyle.scss"
+  ],
+  "TahlildadehMvc/Content/components/_aboutTeacher.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/course/_paymentStatus.scss": [],
+  "TahlildadehMvc/Content/components/_courseInfo.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_newCourseCertificate.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_newTeacherCv.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_addedToBasketModalStyle.scss": [],
+  "TahlildadehMvc/Content/components/_courseTableOfContentStyle.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/pages/articleCatStyle.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/boxesAds/_boxesAds.scss",
+    "TahlildadehMvc/Content/components/search/_filterBar.scss",
+    "TahlildadehMvc/Content/components/_customSelect.scss",
+    "TahlildadehMvc/Content/components/_loader.scss",
+    "TahlildadehMvc/Content/components/_footer.scss",
+    "TahlildadehMvc/Content/components/shared/_innerContent.scss"
+  ],
+  "TahlildadehMvc/Content/pages/nodejsStyle2.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_videoGrid.scss"
+  ],
+  "TahlildadehMvc/Content/components/_videoGrid.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_sampleVideo.scss",
+    "TahlildadehMvc/Content/components/_seoLandingLink.scss"
+  ],
+  "TahlildadehMvc/Content/components/_sampleVideo.scss": [],
+  "TahlildadehMvc/Content/pages/NewsStyle.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_qComments.scss",
+    "TahlildadehMvc/Content/components/_instaSide.scss",
+    "TahlildadehMvc/Content/components/_footer.scss",
+    "TahlildadehMvc/Content/components/_sideBar.scss"
+  ],
+  "TahlildadehMvc/Content/components/_qComments.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/pages/KidsDetails.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_theme_scratch.scss",
+    "TahlildadehMvc/Content/components/_theme_icdl.scss",
+    "TahlildadehMvc/Content/components/_theme_python.scss",
+    "TahlildadehMvc/Content/components/_theme_appInventor.scss",
+    "TahlildadehMvc/Content/components/_theme_eKids.scss",
+    "TahlildadehMvc/Content/components/_theme_robatic.scss",
+    "TahlildadehMvc/Content/components/_modal.scss",
+    "TahlildadehMvc/Content/components/_courseMoreInfo.scss",
+    "TahlildadehMvc/Content/components/shared/_innerContent.scss"
+  ],
+  "TahlildadehMvc/Content/components/_theme_scratch.scss": [],
+  "TahlildadehMvc/Content/components/_theme_icdl.scss": [],
+  "TahlildadehMvc/Content/components/_theme_python.scss": [],
+  "TahlildadehMvc/Content/components/_theme_appInventor.scss": [],
+  "TahlildadehMvc/Content/components/_theme_eKids.scss": [],
+  "TahlildadehMvc/Content/components/_theme_robatic.scss": [],
+  "TahlildadehMvc/Content/components/_courseMoreInfo.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/pages/PackageHome.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_footer.scss",
+    "TahlildadehMvc/Content/TVStyle/_videoSectionNew.scss",
+    "TahlildadehMvc/Content/components/_newBreadcrumb.scss"
+  ],
+  "TahlildadehMvc/Content/pages/article.scss": [
+    "TahlildadehMvc/Content/components/boxesAds/_boxesAds.scss",
+    "TahlildadehMvc/Content/components/_articleCate.scss",
+    "TahlildadehMvc/Content/components/search/_filterBar.scss",
+    "TahlildadehMvc/Content/components/_customSelect.scss",
+    "TahlildadehMvc/Content/components/_loader.scss",
+    "TahlildadehMvc/Content/components/_footer.scss"
+  ],
+  "TahlildadehMvc/Content/pages/django1.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_courseQuestion.scss"
+  ],
+  "TahlildadehMvc/Content/components/_courseQuestion.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/pages/ProjectsPageStyle.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/boxesAds/_boxesAds.scss",
+    "TahlildadehMvc/Content/components/_loader.scss",
+    "TahlildadehMvc/Content/components/_footer.scss",
+    "TahlildadehMvc/Content/components/_instaSide.scss",
+    "TahlildadehMvc/Content/components/search/_filterBar.scss",
+    "TahlildadehMvc/Content/components/_customSelect.scss",
+    "TahlildadehMvc/Content/components/_pagination.scss",
+    "TahlildadehMvc/Content/components/_sideBar.scss",
+    "TahlildadehMvc/Content/components/_homeProjects.scss",
+    "TahlildadehMvc/Content/components/shared/_innerContent.scss",
+    "TahlildadehMvc/Content/components/_projectBoxLink.scss",
+    "TahlildadehMvc/Content/components/_inPageTab.scss"
+  ],
+  "TahlildadehMvc/Content/components/_projectBoxLink.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/pages/Common.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/source/_Fonts.scss",
+    "TahlildadehMvc/Content/components/_header.scss",
+    "TahlildadehMvc/Content/components/_newHeader.scss",
+    "TahlildadehMvc/Content/components/_general.scss",
+    "TahlildadehMvc/Content/components/_bannerImages.scss",
+    "TahlildadehMvc/Content/source/_scroller.scss",
+    "TahlildadehMvc/Content/components/_notFound.scss",
+    "TahlildadehMvc/Content/components/_scrollProgress.scss",
+    "TahlildadehMvc/Content/components/_modal.scss",
+    "TahlildadehMvc/Content/components/_Attention.scss",
+    "TahlildadehMvc/Content/components/_breadcrumb.scss",
+    "TahlildadehMvc/Content/components/boxesAds/_boxesAds.scss",
+    "TahlildadehMvc/Content/components/_newBreadcrumb.scss",
+    "TahlildadehMvc/Content/components/_newAdsStyle.scss",
+    "TahlildadehMvc/Content/components/_loader.scss"
+  ],
+  "TahlildadehMvc/Content/source/_Fonts.scss": [],
+  "TahlildadehMvc/Content/components/_header.scss": [
+    "TahlildadehMvc/Content/components/search/_searchBar.scss",
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/search/_searchBar.scss": [],
+  "TahlildadehMvc/Content/components/_newHeader.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_seoLandingLink.scss"
+  ],
+  "TahlildadehMvc/Content/components/_general.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_bannerImages.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/source/_scroller.scss": [],
+  "TahlildadehMvc/Content/components/_notFound.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_scrollProgress.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_Attention.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_newAdsStyle.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/pages/reactStyle.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_courseQuestion.scss"
+  ],
+  "TahlildadehMvc/Content/pages/seoLandingPage.scss": [
+    "TahlildadehMvc/Content/components/newRoadMap/_newRoadMap.scss",
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_videoGrid.scss",
+    "TahlildadehMvc/Content/components/_seoLandingLink.scss",
+    "TahlildadehMvc/Content/components/_landingIntroSection.scss",
+    "TahlildadehMvc/Content/components/_seoLandingStep.scss",
+    "TahlildadehMvc/Content/components/_homeBlog.scss",
+    "TahlildadehMvc/Content/components/_footer.scss",
+    "TahlildadehMvc/Content/components/_seoLandingStepDescription.scss",
+    "TahlildadehMvc/Content/components/_newComment.scss"
+  ],
+  "TahlildadehMvc/Content/components/newRoadMap/_newRoadMap.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_landingIntroSection.scss": [
+    "TahlildadehMvc/Content/components/_sampleVideo.scss",
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_seoLandingStep.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_homeBlog.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/homeSectionTitle.scss"
+  ],
+  "TahlildadehMvc/Content/components/_seoLandingStepDescription.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/shared/_innerContent.scss"
+  ],
+  "TahlildadehMvc/Content/pages/blockingStyles.scss": [
+    "TahlildadehMvc/Content/source/_Fonts.scss",
+    "TahlildadehMvc/Content/components/_header.scss",
+    "TahlildadehMvc/Content/components/_general.scss",
+    "TahlildadehMvc/Content/components/_Attention.scss",
+    "TahlildadehMvc/Content/components/_breadcrumb.scss",
+    "TahlildadehMvc/Content/components/boxesAds/_boxesAds.scss"
+  ],
+  "TahlildadehMvc/Content/pages/ProfileStyle.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/source/_Fonts.scss",
+    "TahlildadehMvc/Content/components/_modal.scss",
+    "TahlildadehMvc/Content/components/_profile.scss",
+    "TahlildadehMvc/Content/components/_uploadDocs.scss",
+    "TahlildadehMvc/Content/components/_customSelect.scss",
+    "TahlildadehMvc/Content/components/_copyable.scss",
+    "TahlildadehMvc/Content/components/_bankCard.scss",
+    "TahlildadehMvc/Content/components/_gridItems.scss",
+    "TahlildadehMvc/Content/components/_dashboard.scss"
+  ],
+  "TahlildadehMvc/Content/components/_profile.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_uploadDocs.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_dashboard.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_gridItems.scss",
+    "TahlildadehMvc/Content/components/_guideDashboard.scss"
+  ],
+  "TahlildadehMvc/Content/components/_guideDashboard.scss": [],
+  "TahlildadehMvc/Content/pages/PackageStyle.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/source/_Fonts.scss",
+    "TahlildadehMvc/Content/components/_general.scss",
+    "TahlildadehMvc/Content/components/_canvasPlayer.scss",
+    "TahlildadehMvc/Content/components/_footer.scss",
+    "TahlildadehMvc/Content/components/_newComment.scss",
+    "TahlildadehMvc/Content/components/_collapsibleHeadLine.scss",
+    "TahlildadehMvc/Content/components/shared/_innerContent.scss",
+    "TahlildadehMvc/Content/components/_newBreadcrumb.scss"
+  ],
+  "TahlildadehMvc/Content/components/_canvasPlayer.scss": [],
+  "TahlildadehMvc/Content/components/_collapsibleHeadLine.scss": [],
+  "TahlildadehMvc/Content/pages/UIUXPageStyle1.scss": [
+    "TahlildadehMvc/Content/components/_courseDetailTitr.scss",
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_courseQuestion.scss"
+  ],
+  "TahlildadehMvc/Content/components/_courseDetailTitr.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/pages/deepLearningStyle.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_courseQuestion.scss"
+  ],
+  "TahlildadehMvc/Content/pages/InnerStyle.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/shared/_innerContent.scss"
+  ],
+  "TahlildadehMvc/Content/pages/teens.scss": [
+    "TahlildadehMvc/Content/components/_generalTeens.scss",
+    "TahlildadehMvc/Content/components/_banner.scss",
+    "TahlildadehMvc/Content/components/_aboutUs.scss",
+    "TahlildadehMvc/Content/components/_aboutUsCounter.scss",
+    "TahlildadehMvc/Content/components/_ourCourses.scss",
+    "TahlildadehMvc/Content/components/_learningPath.scss",
+    "TahlildadehMvc/Content/components/_interview.scss",
+    "TahlildadehMvc/Content/components/_game.scss",
+    "TahlildadehMvc/Content/components/_projectsStudents.scss",
+    "TahlildadehMvc/Content/components/_consultation.scss",
+    "TahlildadehMvc/Content/components/_blog.scss",
+    "TahlildadehMvc/Content/components/_footerKids&Teens.scss"
+  ],
+  "TahlildadehMvc/Content/components/_generalTeens.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_banner.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_aboutUs.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_aboutUsCounter.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_ourCourses.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_learningPath.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_interview.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_game.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_projectsStudents.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_consultation.scss": [
+    "TahlildadehMvc/Content/components/_generalInnerPage.scss",
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_generalInnerPage.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_blog.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_footerKids&Teens.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/pages/machineLearningPageStyle.scss": [
+    "TahlildadehMvc/Content/components/_courseDetailTitr.scss",
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_courseQuestion.scss",
+    "TahlildadehMvc/Content/components/_videoGrid.scss"
+  ],
+  "TahlildadehMvc/Content/pages/calendar.scss": [
+    "TahlildadehMvc/Content/components/_calendarCourses.scss",
+    "TahlildadehMvc/Content/components/_tableDetailsCourse.scss",
+    "TahlildadehMvc/Content/components/_aboutPrograming.scss",
+    "TahlildadehMvc/Content/components/_footer.scss",
+    "TahlildadehMvc/Content/components/newRoadMap/_roadMapInCourse.scss",
+    "TahlildadehMvc/Content/components/_newComment.scss",
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_calendarCourses.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/shared/_innerContent.scss"
+  ],
+  "TahlildadehMvc/Content/components/_tableDetailsCourse.scss": [],
+  "TahlildadehMvc/Content/components/_aboutPrograming.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/newRoadMap/_roadMapInCourse.scss": [
+    "TahlildadehMvc/Content/components/newRoadMap/_newRoadMap.scss",
+    "TahlildadehMvc/Content/components/newRoadMap/_newRoadMapDesVid.scss",
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/newRoadMap/_newRoadMapDesVid.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/pages/pythoCourseStyle.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_modal.scss",
+    "TahlildadehMvc/Content/components/_pythonJournal.scss",
+    "TahlildadehMvc/Content/components/_aboutTeacher.scss",
+    "TahlildadehMvc/Content/components/_footer.scss",
+    "TahlildadehMvc/Content/components/_commonQ.scss",
+    "TahlildadehMvc/Content/components/_homeBlog.scss",
+    "TahlildadehMvc/Content/components/_newComment.scss",
+    "TahlildadehMvc/Content/components/_courseInfo.scss",
+    "TahlildadehMvc/Content/components/_newCourseCertificate.scss",
+    "TahlildadehMvc/Content/components/_newTeacherCv.scss",
+    "TahlildadehMvc/Content/components/newRoadMap/_roadMapInCourse.scss",
+    "TahlildadehMvc/Content/components/_addedToBasketModalStyle.scss",
+    "TahlildadehMvc/Content/components/_courseTableOfContentStyle.scss",
+    "TahlildadehMvc/Content/components/_videoGrid.scss"
+  ],
+  "TahlildadehMvc/Content/components/_pythonJournal.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_courseVideo.scss",
+    "TahlildadehMvc/Content/components/shared/_innerContent.scss",
+    "TahlildadehMvc/Content/components/_splitSection.scss",
+    "TahlildadehMvc/Content/components/_courseDetailTitr.scss",
+    "TahlildadehMvc/Content/components/_courseTableOfContentStyle.scss"
+  ],
+  "TahlildadehMvc/Content/components/_courseVideo.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_splitSection.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/pages/termsAndConditions.scss": [
+    "TahlildadehMvc/Content/pages/InnerStyle.scss",
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/pages/laravelPageStyle.scss": [
+    "TahlildadehMvc/Content/components/_courseDetailTitr.scss",
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_courseQuestion.scss"
+  ],
+  "TahlildadehMvc/Content/pages/videoDetailsStyle.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/boxesAds/_boxesAds.scss",
+    "TahlildadehMvc/Content/components/_loader.scss",
+    "TahlildadehMvc/Content/components/_footer.scss",
+    "TahlildadehMvc/Content/components/shared/_innerContent.scss",
+    "TahlildadehMvc/Content/components/_instaSide.scss",
+    "TahlildadehMvc/Content/components/_sideBar.scss",
+    "TahlildadehMvc/Content/components/_newComment.scss"
+  ],
+  "TahlildadehMvc/Content/pages/festival.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_cardFestival.scss"
+  ],
+  "TahlildadehMvc/Content/components/_cardFestival.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_gridItems.scss",
+    "TahlildadehMvc/Content/components/_detailsArticle.scss"
+  ],
+  "TahlildadehMvc/Content/pages/csharpPageStyle.scss": [
+    "TahlildadehMvc/Content/components/_courseDetailTitr.scss",
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_courseQuestion.scss",
+    "TahlildadehMvc/Content/components/_videoGrid.scss"
+  ],
+  "TahlildadehMvc/Content/pages/search.scss": [
+    "TahlildadehMvc/Content/components/search/_loaderTab.scss",
+    "TahlildadehMvc/Content/components/search/articles.scss",
+    "TahlildadehMvc/Content/components/search/_videos.scss",
+    "TahlildadehMvc/Content/components/search/_projects.scss",
+    "TahlildadehMvc/Content/components/search/_bookCard.scss",
+    "TahlildadehMvc/Content/components/search/_educationsCourses.scss",
+    "TahlildadehMvc/Content/components/_footer.scss",
+    "TahlildadehMvc/Content/components/_modal.scss",
+    "TahlildadehMvc/Content/components/_loader.scss",
+    "TahlildadehMvc/Content/components/_customSelect.scss",
+    "TahlildadehMvc/Content/MediaCss/mediaPartials/_footer.scss",
+    "TahlildadehMvc/Content/components/search/_filterBar.scss"
+  ],
+  "TahlildadehMvc/Content/components/search/_loaderTab.scss": [],
+  "TahlildadehMvc/Content/components/search/articles.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/search/_videos.scss": [],
+  "TahlildadehMvc/Content/components/search/_projects.scss": [],
+  "TahlildadehMvc/Content/components/search/_bookCard.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/search/_educationsCourses.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/pages/kidsTeensCommon.scss": [
+    "TahlildadehMvc/Content/components/_general.scss",
+    "TahlildadehMvc/Content/source/_Fonts.scss",
+    "TahlildadehMvc/Content/source/_scroller.scss",
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_header.scss",
+    "TahlildadehMvc/Content/components/_footerKids&Teens.scss",
+    "TahlildadehMvc/Content/components/_headerInner.scss",
+    "TahlildadehMvc/Content/MediaCss/mediaPartials/_header.scss"
+  ],
+  "TahlildadehMvc/Content/components/_headerInner.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/pages/roadMap.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/pages/webDesignStyle.scss": [
+    "TahlildadehMvc/Content/components/_courseInfo.scss",
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_courseLevels.scss",
+    "TahlildadehMvc/Content/components/_courseVideo.scss",
+    "TahlildadehMvc/Content/components/_webDesignCourseDetailTitr.scss",
+    "TahlildadehMvc/Content/components/_courseQuestion.scss",
+    "TahlildadehMvc/Content/components/shared/_innerContent.scss",
+    "TahlildadehMvc/Content/components/_tip.scss",
+    "TahlildadehMvc/Content/components/_salaryInfo.scss",
+    "TahlildadehMvc/Content/components/_homeBlog.scss",
+    "TahlildadehMvc/Content/components/_newComment.scss",
+    "TahlildadehMvc/Content/components/_footer.scss",
+    "TahlildadehMvc/Content/components/_modal.scss",
+    "TahlildadehMvc/Content/components/_aboutTeacher.scss",
+    "TahlildadehMvc/Content/components/_commonQ.scss",
+    "TahlildadehMvc/Content/components/_newCourseCertificate.scss",
+    "TahlildadehMvc/Content/components/_newTeacherCv.scss",
+    "TahlildadehMvc/Content/components/_addedToBasketModalStyle.scss"
+  ],
+  "TahlildadehMvc/Content/components/_courseLevels.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_webDesignCourseDetailTitr.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_tip.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_salaryInfo.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/pages/kids.scss": [
+    "TahlildadehMvc/Content/components/_generalInnerPage.scss",
+    "TahlildadehMvc/Content/components/_generalKids.scss",
+    "TahlildadehMvc/Content/components/_banner.scss",
+    "TahlildadehMvc/Content/components/_aboutUs.scss",
+    "TahlildadehMvc/Content/components/_aboutUsCounter.scss",
+    "TahlildadehMvc/Content/components/_learningPath.scss",
+    "TahlildadehMvc/Content/components/_interview.scss",
+    "TahlildadehMvc/Content/components/_game.scss",
+    "TahlildadehMvc/Content/components/_projectsStudents.scss",
+    "TahlildadehMvc/Content/components/_consultation.scss",
+    "TahlildadehMvc/Content/components/_blog.scss",
+    "TahlildadehMvc/Content/components/_kidsCourseIntro.scss"
+  ],
+  "TahlildadehMvc/Content/components/_generalKids.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_kidsCourseIntro.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/pages/AdminStyle.scss": [
+    "TahlildadehMvc/Content/components/_modal.scss",
+    "TahlildadehMvc/Content/components/_loader.scss",
+    "TahlildadehMvc/Content/components/slect2.scss"
+  ],
+  "TahlildadehMvc/Content/pages/articleDetails.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/boxesAds/_boxesAds.scss",
+    "TahlildadehMvc/Content/components/_loader.scss",
+    "TahlildadehMvc/Content/components/_footer.scss",
+    "TahlildadehMvc/Content/components/shared/_innerContent.scss",
+    "TahlildadehMvc/Content/components/_instaSide.scss",
+    "TahlildadehMvc/Content/components/_sideBar.scss",
+    "TahlildadehMvc/Content/components/_newComment.scss",
+    "TahlildadehMvc/Content/components/_intraction.scss",
+    "TahlildadehMvc/Content/components/_addRate.scss",
+    "TahlildadehMvc/Content/components/_articleAsideInfo.scss"
+  ],
+  "TahlildadehMvc/Content/pages/weblogDetailsStyle.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_asideArticle.scss",
+    "TahlildadehMvc/Content/components/_detailsArticle.scss",
+    "TahlildadehMvc/Content/components/_gridItems.scss",
+    "TahlildadehMvc/Content/components/_category.scss",
+    "TahlildadehMvc/Content/components/_footer.scss",
+    "TahlildadehMvc/Content/components/_newComment.scss",
+    "TahlildadehMvc/Content/components/_WeblogInnerMenu.scss",
+    "TahlildadehMvc/Content/pages/newsDetails.scss",
+    "TahlildadehMvc/Content/components/boxesAds/_boxesAds.scss"
+  ],
+  "TahlildadehMvc/Content/pages/newCourseDetailsStyle.scss": [
+    "TahlildadehMvc/Content/components/_courseDetailsInfo.scss",
+    "TahlildadehMvc/Content/components/_newScrollProgress.scss",
+    "TahlildadehMvc/Content/components/_newCourseInfo.scss",
+    "TahlildadehMvc/Content/components/_newCourseBox.scss",
+    "TahlildadehMvc/Content/components/_textAndImage.scss",
+    "TahlildadehMvc/Content/components/_courseFeatures.scss",
+    "TahlildadehMvc/Content/components/_showMoreBox.scss",
+    "TahlildadehMvc/Content/components/_newHeadLine.scss",
+    "TahlildadehMvc/Content/components/_videosOfComments.scss",
+    "TahlildadehMvc/Content/components/_studentVideos.scss",
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_homeProjects.scss",
+    "TahlildadehMvc/Content/components/_videoGrid.scss",
+    "TahlildadehMvc/Content/pages/CourseStyle.scss"
+  ],
+  "TahlildadehMvc/Content/components/_courseDetailsInfo.scss": [],
+  "TahlildadehMvc/Content/components/_newScrollProgress.scss": [],
+  "TahlildadehMvc/Content/components/_newCourseInfo.scss": [],
+  "TahlildadehMvc/Content/components/_newCourseBox.scss": [],
+  "TahlildadehMvc/Content/components/_textAndImage.scss": [],
+  "TahlildadehMvc/Content/components/_courseFeatures.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_showMoreBox.scss": [],
+  "TahlildadehMvc/Content/components/_newHeadLine.scss": [],
+  "TahlildadehMvc/Content/components/_videosOfComments.scss": [],
+  "TahlildadehMvc/Content/components/_studentVideos.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/pages/loginRegister.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_modal.scss",
+    "TahlildadehMvc/Content/components/_loader.scss"
+  ],
+  "TahlildadehMvc/Content/pages/IndexStyle.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_swiper.scss",
+    "TahlildadehMvc/Content/components/_teacherVid.scss",
+    "TahlildadehMvc/Content/components/_cooperationBanner.scss",
+    "TahlildadehMvc/Content/components/_footer.scss",
+    "TahlildadehMvc/Content/components/_loader.scss",
+    "TahlildadehMvc/Content/components/boxesAds/_boxesAds.scss",
+    "TahlildadehMvc/Content/components/homeSectionTitle.scss",
+    "TahlildadehMvc/Content/components/_projectBoxLink.scss",
+    "TahlildadehMvc/Content/components/search/_bookCard.scss",
+    "TahlildadehMvc/Content/components/_seoLandingLink.scss",
+    "TahlildadehMvc/Content/components/_mainMenuVideo.scss",
+    "TahlildadehMvc/Content/components/_newCourseCertificate.scss",
+    "TahlildadehMvc/Content/components/_startToLearnBtn.scss",
+    "TahlildadehMvc/Content/components/_rectanglesInClasseImg.scss",
+    "TahlildadehMvc/Content/components/_studentsOpinion.scss",
+    "TahlildadehMvc/Content/components/_studentsDoes.scss",
+    "TahlildadehMvc/Content/components/_HoverScaleGallery.scss",
+    "TahlildadehMvc/Content/components/_homeForm.scss",
+    "TahlildadehMvc/Content/components/_masters.scss",
+    "TahlildadehMvc/Content/components/_studentProjects2.scss",
+    "TahlildadehMvc/Content/components/_projectForM.scss",
+    "TahlildadehMvc/Content/components/_homeAd.scss"
+  ],
+  "TahlildadehMvc/Content/components/_teacherVid.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_courseVideo.scss"
+  ],
+  "TahlildadehMvc/Content/components/_cooperationBanner.scss": [],
+  "TahlildadehMvc/Content/components/_mainMenuVideo.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_startToLearnBtn.scss"
+  ],
+  "TahlildadehMvc/Content/components/_startToLearnBtn.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_rectanglesInClasseImg.scss": [],
+  "TahlildadehMvc/Content/components/_studentsOpinion.scss": [
+    "TahlildadehMvc/Content/components/_HoverScaleGallery.scss"
+  ],
+  "TahlildadehMvc/Content/components/_HoverScaleGallery.scss": [],
+  "TahlildadehMvc/Content/components/_studentsDoes.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/components/_homeForm.scss": [],
+  "TahlildadehMvc/Content/components/_masters.scss": [],
+  "TahlildadehMvc/Content/components/_studentProjects2.scss": [],
+  "TahlildadehMvc/Content/components/_projectForM.scss": [],
+  "TahlildadehMvc/Content/components/_homeAd.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss"
+  ],
+  "TahlildadehMvc/Content/pages/learningVideoStyle.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/boxesAds/_boxesAds.scss",
+    "TahlildadehMvc/Content/components/_loader.scss",
+    "TahlildadehMvc/Content/components/_footer.scss",
+    "TahlildadehMvc/Content/components/_instaSide.scss",
+    "TahlildadehMvc/Content/components/search/_filterBar.scss",
+    "TahlildadehMvc/Content/components/_customSelect.scss",
+    "TahlildadehMvc/Content/components/_pagination.scss",
+    "TahlildadehMvc/Content/components/_sideBar.scss"
+  ],
+  "TahlildadehMvc/Content/package/packageInSection2.scss": [
+    "TahlildadehMvc/Content/source/_Variables.scss",
+    "TahlildadehMvc/Content/components/_videoGrid.scss"
+  ],
+  "TahlildadehMvc/Content/MediaCss/Old/tablet-media.scss": [],
+  "TahlildadehMvc/Content/MediaCss/Old/mobile-media.scss": [],
+  "TahlildadehMvc/Content/MediaCss/Old/screen-media.scss": [],
+  "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shCoreEclipse.scss": [
+    "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shCore.scss",
+    "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shThemeEclipse.scss"
+  ],
+  "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shCore.scss": [],
+  "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shThemeEclipse.scss": [
+    "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/_theme_template.scss"
+  ],
+  "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/_theme_template.scss": [],
+  "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shThemeMidnight.scss": [
+    "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/_theme_template.scss"
+  ],
+  "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shCoreDjango.scss": [
+    "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shCore.scss",
+    "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shThemeDjango.scss"
+  ],
+  "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shThemeDjango.scss": [
+    "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/_theme_template.scss"
+  ],
+  "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shThemeFadeToGrey.scss": [
+    "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/_theme_template.scss"
+  ],
+  "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shCoreFadeToGrey.scss": [
+    "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shCore.scss",
+    "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shThemeFadeToGrey.scss"
+  ],
+  "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shThemeEmacs.scss": [
+    "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/_theme_template.scss"
+  ],
+  "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shCoreMDUltra.scss": [
+    "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shCore.scss",
+    "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shThemeMDUltra.scss"
+  ],
+  "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shThemeMDUltra.scss": [
+    "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/_theme_template.scss"
+  ],
+  "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shCoreRDark.scss": [
+    "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shCore.scss",
+    "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shThemeRDark.scss"
+  ],
+  "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shThemeRDark.scss": [
+    "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/_theme_template.scss"
+  ],
+  "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shThemeDefault.scss": [
+    "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/_theme_template.scss"
+  ],
+  "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shCoreMidnight.scss": [
+    "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shCore.scss",
+    "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shThemeMidnight.scss"
+  ],
+  "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shCoreDefault.scss": [
+    "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shCore.scss",
+    "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shThemeDefault.scss"
+  ],
+  "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shCoreEmacs.scss": [
+    "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shCore.scss",
+    "TahlildadehMvc/Content/ckeditor/syntaxhighlighter/compass/shThemeEmacs.scss"
+  ]
+}
