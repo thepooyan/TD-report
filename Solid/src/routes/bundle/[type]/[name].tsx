@@ -1,10 +1,8 @@
 import { useParams } from "@solidjs/router"
-import { onMount, Show } from "solid-js"
+import { Show } from "solid-js"
 import pages from "~/json/result.json"
-import bundleInfo from "~/json/bundles.json"
 import Pages from "~/components/Pages"
 import BundleLink from "~/components/BundleLink"
-import sassGraph from "~/json/sass-graph.json"
 import { graph } from "~/graph/generateGraph"
 
 const js = () => {
@@ -19,12 +17,8 @@ const js = () => {
     }
     let isBundle = () => fileName().match(/\?v=.*$/);
 
-    const lowercaseSassGraph = Object.fromEntries(
-      Object.entries(sassGraph).map(([key, value]) => [key.toLowerCase(), value])
-    );
 
     const bundleItem = () => {
-      // bundleInfo.find(b => b.bundleName.toLowerCase() === cleanName().toLowerCase())
       return graph.parentsToChildren.get(cleanName().toLowerCase())
     }
     const graphItem = () => {

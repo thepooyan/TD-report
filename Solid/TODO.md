@@ -11,3 +11,7 @@ bundle => file => component
 - find page from bundle
 - find page from file
 - find page from component
+
+
+
+seprate layers
